@@ -220,3 +220,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 23:26:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Los espero
 [30Mar2025 23:27:43.308] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [30Mar2025 23:27:43.318] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:32:21.808] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:32:21.813] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:32:31.013] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:32:31.015] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:34:36.608] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[30Mar2025 23:34:36.610] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[30Mar2025 23:36:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Strong Undead]
+[30Mar2025 23:36:07.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Bring Out Your Dead]
+[30Mar2025 23:36:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Not even afraid of death]
+[30Mar2025 23:36:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Back to childhood]
+[30Mar2025 23:36:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Magic Writing]
+[30Mar2025 23:37:27.109] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:37:27.110] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:37:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[30Mar2025 23:37:32.110] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:37:58.615] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[30Mar2025 23:37:58.617] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[30Mar2025 23:38:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[30Mar2025 23:38:05.110] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[30Mar2025 23:38:17.509] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:38:17.510] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:38:20.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Chain Death]
+[30Mar2025 23:38:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[30Mar2025 23:38:20.223] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:38:23.512] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[30Mar2025 23:38:23.515] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved

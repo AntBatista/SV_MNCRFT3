@@ -571,6 +571,7 @@
       "salmon": "2025-03-21 15:09:56 +0000",
       "melon_slice": "2025-03-23 16:46:38 +0000",
       "golden_carrot": "2025-03-20 16:24:29 +0000",
+      "cooked_chicken": "2025-03-30 23:24:22 +0000",
       "mushroom_stew": "2025-03-22 03:57:37 +0000",
       "cod": "2025-03-22 21:57:47 +0000",
       "carrot": "2025-03-21 16:06:19 +0000"
@@ -3616,6 +3617,54 @@
   "tombstone:recipes/from_white_marble": {
     "criteria": {
       "has_ingredient": "2025-03-30 16:50:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-30 23:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-30 23:32:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-03-30 23:23:53 +0000"
     },
     "done": true
   },

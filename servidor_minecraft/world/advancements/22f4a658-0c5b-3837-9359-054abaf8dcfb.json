@@ -2549,9 +2549,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-03-25 02:47:27 +0000"
+      "kill_naga": "2025-03-25 02:47:27 +0000",
+      "was_in_fight": "2025-03-30 23:36:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -3015,9 +3016,27 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-30 23:36:07 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-03-30 23:36:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2025-03-30 23:20:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 23:38:20 +0000"
     },
     "done": true
   },
@@ -3033,6 +3052,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-30 23:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-30 22:50:17 +0000"
@@ -3045,6 +3070,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-03-30 23:36:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-03-30 23:36:07 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-03-30 23:17:45 +0000"
@@ -3054,6 +3091,12 @@
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2025-03-30 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-30 23:28:19 +0000"
     },
     "done": true
   },
