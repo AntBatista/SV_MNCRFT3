@@ -209,3 +209,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 23:03:04.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> si
 [30Mar2025 23:06:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Quien tiene la coordenada del portal de este mundo
 [30Mar2025 23:07:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"portal", x:-14859, y:7, z:20104, dim:twilightforest:twilight_forest]
+[30Mar2025 23:17:10.680] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:17:10.697] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 23:17:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster blew up
+[30Mar2025 23:17:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [A Fast Comeback]
