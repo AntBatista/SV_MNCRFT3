@@ -201,6 +201,7 @@
       "minecraft:spider": "2025-03-22 04:25:34 +0000",
       "minecraft:creeper": "2025-03-23 21:45:37 +0000",
       "minecraft:evoker": "2025-03-27 03:29:30 +0000",
+      "minecraft:phantom": "2025-03-30 22:40:48 +0000",
       "minecraft:cave_spider": "2025-03-24 02:42:22 +0000",
       "minecraft:enderman": "2025-03-25 02:36:35 +0000",
       "minecraft:vex": "2025-03-27 03:33:57 +0000",
@@ -2066,7 +2067,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_venison": "2025-03-24 03:20:48 +0000"
+      "raw_venison": "2025-03-24 03:20:48 +0000",
+      "cooked_venison": "2025-03-30 22:41:36 +0000"
     },
     "done": false
   },
