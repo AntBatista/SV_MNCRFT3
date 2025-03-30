@@ -182,3 +182,7 @@ java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" becaus
 [30Mar2025 17:06:00.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
 [30Mar2025 17:06:01.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [30Mar2025 17:06:01.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[30Mar2025 17:11:13.025] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[30Mar2025 17:11:13.027] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[30Mar2025 17:11:33.712] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[30Mar2025 17:11:33.714] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved

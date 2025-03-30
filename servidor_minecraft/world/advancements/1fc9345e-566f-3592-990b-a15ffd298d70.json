@@ -4188,12 +4188,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-03-29 05:19:41 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/soul_magic": {
     "criteria": {
       "coded_trigger": "2025-03-29 03:41:41 +0000"
@@ -4203,6 +4197,12 @@
   "tombstone:adventure/disenchanter": {
     "criteria": {
       "coded_trigger": "2025-03-29 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 05:19:41 +0000"
     },
     "done": true
   },
