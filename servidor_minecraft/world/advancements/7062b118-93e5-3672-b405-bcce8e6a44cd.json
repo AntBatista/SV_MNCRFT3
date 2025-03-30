@@ -3613,5 +3613,11 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-03-30 16:50:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
