@@ -175,3 +175,10 @@ java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" becaus
 [30Mar2025 15:50:09.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [30Mar2025 15:50:09.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [30Mar2025 16:02:16.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
+[30Mar2025 17:05:50.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:38909] logged in with entity id 19485 at (-1814.300000011921, 64.875, 2536.7876623078223)
+[30Mar2025 17:05:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[30Mar2025 17:05:52.243] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[30Mar2025 17:05:52.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[30Mar2025 17:06:00.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[30Mar2025 17:06:01.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[30Mar2025 17:06:01.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
