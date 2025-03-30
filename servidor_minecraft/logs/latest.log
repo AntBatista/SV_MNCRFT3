@@ -203,3 +203,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 22:40:36.712] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [30Mar2025 22:45:24.811] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [30Mar2025 22:45:24.812] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[30Mar2025 22:50:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Best Friends Forever]
+[30Mar2025 22:55:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Strange Encounter]
+[30Mar2025 23:02:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ?
+[30Mar2025 23:03:04.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> si
+[30Mar2025 23:06:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Quien tiene la coordenada del portal de este mundo
+[30Mar2025 23:07:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"portal", x:-14859, y:7, z:20104, dim:twilightforest:twilight_forest]
