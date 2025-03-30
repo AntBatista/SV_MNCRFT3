@@ -213,3 +213,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 23:17:10.697] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [30Mar2025 23:17:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster blew up
 [30Mar2025 23:17:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [A Fast Comeback]
+[30Mar2025 23:20:59.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ven
+[30Mar2025 23:22:12.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Para donde
+[30Mar2025 23:22:22.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> mira el mapa
+[30Mar2025 23:23:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> estoy en la zona de un boss
+[30Mar2025 23:26:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Los espero
+[30Mar2025 23:27:43.308] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[30Mar2025 23:27:43.318] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
