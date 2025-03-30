@@ -2994,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-29 04:40:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/raw_ironwood": {
     "criteria": {
       "has_item": "2025-03-29 04:40:34 +0000"
@@ -3003,12 +3009,6 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-29 04:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-29 04:40:31 +0000"
     },
     "done": true
   },
