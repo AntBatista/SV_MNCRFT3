@@ -256,3 +256,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 05:07:50.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [31Mar2025 05:07:50.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
 [31Mar2025 05:08:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster fell from a high place
+[31Mar2025 05:08:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Teletrasportame
+[31Mar2025 05:09:25.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio teletransportame
+[31Mar2025 05:09:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[31Mar2025 05:12:31.501] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 05:12:31.502] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 05:12:55.594] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[31Mar2025 05:12:55.600] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 05:15:34.088] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[31Mar2025 05:15:34.091] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved

@@ -3711,6 +3711,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-03-31 05:05:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-03-31 04:40:30 +0000",
