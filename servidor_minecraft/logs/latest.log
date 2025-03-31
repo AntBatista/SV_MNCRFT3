@@ -228,3 +228,31 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 04:56:33.926] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
 [31Mar2025 04:56:33.927] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
 [31Mar2025 04:56:50.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Clear Skies]
+[31Mar2025 05:07:19.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB was kicked for floating too long!
+[31Mar2025 05:07:19.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[31Mar2025 05:07:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[31Mar2025 05:07:19.807] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[31Mar2025 05:07:19.853] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 05:07:22.665] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 05:07:22.666] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 05:07:29.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:38703] logged in with entity id 28354 at (-14800.468766164202, 114.6747773417336, 19745.844388795605)
+[31Mar2025 05:07:29.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[31Mar2025 05:07:29.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[31Mar2025 05:07:29.776] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[31Mar2025 05:07:32.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! 0.0,-11.141611616128841,0.0
+[31Mar2025 05:07:33.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[31Mar2025 05:07:34.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[31Mar2025 05:07:34.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[31Mar2025 05:07:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ayuda
+[31Mar2025 05:07:36.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB was kicked for floating too long!
+[31Mar2025 05:07:36.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Flying is not enabled on this server
+[31Mar2025 05:07:36.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[31Mar2025 05:07:36.352] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[31Mar2025 05:07:46.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:33053] logged in with entity id 28382 at (-14800.468766164202, 89.79181128760806, 19745.844388795605)
+[31Mar2025 05:07:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[31Mar2025 05:07:46.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[31Mar2025 05:07:46.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[31Mar2025 05:07:49.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[31Mar2025 05:07:50.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[31Mar2025 05:07:50.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[31Mar2025 05:08:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster fell from a high place

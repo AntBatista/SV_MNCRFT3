@@ -3705,11 +3705,24 @@
     },
     "done": true
   },
-  "twilightforest:progress_glacier": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "previous_progression": "2025-03-31 04:40:30 +0000"
+      "snow_queen": "2025-03-31 04:56:50 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-31 04:40:30 +0000",
+      "queen": "2025-03-31 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-31 04:56:58 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
