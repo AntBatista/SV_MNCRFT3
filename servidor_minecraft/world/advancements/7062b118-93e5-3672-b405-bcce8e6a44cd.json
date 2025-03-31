@@ -3484,9 +3484,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-03-28 04:07:30 +0000"
+      "previous_progression": "2025-03-28 04:07:30 +0000",
+      "trophy": "2025-03-31 04:40:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
@@ -3701,6 +3702,24 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-03-31 00:10:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-31 04:40:30 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-31 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-31 04:35:21 +0000"
     },
     "done": true
   },

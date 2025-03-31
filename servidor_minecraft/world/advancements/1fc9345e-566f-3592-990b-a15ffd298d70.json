@@ -4142,9 +4142,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-03-28 04:07:30 +0000"
+      "previous_progression": "2025-03-28 04:07:30 +0000",
+      "yeti": "2025-03-31 04:40:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
@@ -4278,6 +4279,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-31 04:40:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-03-31 03:43:46 +0000"
@@ -4293,6 +4300,24 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-31 04:23:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 04:28:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 04:28:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-31 04:28:04 +0000"
     },
     "done": true
   },

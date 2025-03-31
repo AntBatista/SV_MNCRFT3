@@ -3080,9 +3080,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-03-30 23:36:07 +0000"
+      "previous_progression": "2025-03-30 23:36:07 +0000",
+      "was_in_fight": "2025-03-31 04:40:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
@@ -3138,6 +3139,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-31 04:23:00 +0000"
@@ -3149,6 +3156,18 @@
       "has_redstone": "2025-03-31 04:23:00 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-31 04:40:26 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
@@ -3162,9 +3181,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-31 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
     },
     "done": true
   },
