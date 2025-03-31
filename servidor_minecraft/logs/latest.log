@@ -282,3 +282,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 05:27:38.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
 [31Mar2025 05:27:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
 [31Mar2025 05:27:38.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[31Mar2025 05:29:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Strange Encounter]
+[31Mar2025 05:35:01.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[31Mar2025 05:35:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[31Mar2025 05:35:01.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[31Mar2025 05:35:05.213] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[31Mar2025 05:35:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed MATTBXB
+[31Mar2025 05:35:05.214] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[31Mar2025 05:35:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was killed
