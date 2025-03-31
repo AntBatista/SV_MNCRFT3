@@ -196,3 +196,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 04:04:32.014] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [31Mar2025 04:04:32.019] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [31Mar2025 04:04:40.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ayuda
+[31Mar2025 04:10:32.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[31Mar2025 04:12:10.102] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 04:12:10.104] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 04:12:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ayuda
+[31Mar2025 04:15:38.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [I Can See Forever]
+[31Mar2025 04:18:09.053] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
