@@ -184,3 +184,15 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 03:47:22.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [31Mar2025 03:47:23.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [31Mar2025 03:47:23.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[31Mar2025 03:59:39.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:42609] logged in with entity id 3317 at (-15348.300000011921, 8.0, 19745.828682065392)
+[31Mar2025 03:59:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[31Mar2025 03:59:40.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[31Mar2025 03:59:40.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[31Mar2025 03:59:45.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[31Mar2025 03:59:46.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[31Mar2025 03:59:46.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[31Mar2025 04:00:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> NO me escuchas manuel
+[31Mar2025 04:01:11.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tamo en una mina
+[31Mar2025 04:04:32.014] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 04:04:32.019] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 04:04:40.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ayuda
