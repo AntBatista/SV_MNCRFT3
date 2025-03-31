@@ -4339,5 +4339,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 05:19:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

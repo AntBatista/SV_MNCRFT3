@@ -265,3 +265,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 05:12:55.600] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [31Mar2025 05:15:34.088] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [31Mar2025 05:15:34.091] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 05:19:04.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[31Mar2025 05:19:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[31Mar2025 05:19:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Home Sweet Home]
+[31Mar2025 05:19:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
+[31Mar2025 05:20:27.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> accepa yuberir
+[31Mar2025 05:20:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> ya yo estoy en mi casa
+[31Mar2025 05:21:01.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> no te llego una solicitu al chat
+[31Mar2025 05:21:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ?
+[31Mar2025 05:21:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp entonces
+[31Mar2025 05:22:09.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> si
+[31Mar2025 05:22:18.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> pero ya yo estaba en mi casa
+[31Mar2025 05:22:36.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si pero hasme tp
+[31Mar2025 05:23:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[31Mar2025 05:27:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> adios
+[31Mar2025 05:27:38.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[31Mar2025 05:27:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[31Mar2025 05:27:38.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
