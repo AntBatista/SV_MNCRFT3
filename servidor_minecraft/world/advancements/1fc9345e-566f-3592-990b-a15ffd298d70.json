@@ -4254,6 +4254,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-03-31 00:20:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-03-30 23:36:07 +0000"

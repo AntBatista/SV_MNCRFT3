@@ -12,3 +12,30 @@
 [31Mar2025 00:16:16.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [With Fire It Writes]
 [31Mar2025 00:18:33.710] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [31Mar2025 00:18:33.711] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 00:19:22.160] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[31Mar2025 00:19:22.162] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 00:19:28.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[31Mar2025 00:19:28.470] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 00:26:15.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[31Mar2025 00:26:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[31Mar2025 00:26:15.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[31Mar2025 00:26:23.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[31Mar2025 00:26:23.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[31Mar2025 00:26:23.010] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[31Mar2025 00:26:24.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[31Mar2025 00:26:24.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[31Mar2025 00:26:24.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[31Mar2025 00:26:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 00:26:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 00:26:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 00:26:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 00:26:45.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 00:26:46.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 00:26:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[31Mar2025 00:26:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 00:26:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 00:26:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 00:26:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Mar2025 00:26:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 00:26:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 00:26:46.850] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
