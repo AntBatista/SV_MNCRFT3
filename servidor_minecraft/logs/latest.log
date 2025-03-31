@@ -202,3 +202,23 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 04:12:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Ayuda
 [31Mar2025 04:15:38.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [I Can See Forever]
 [31Mar2025 04:18:09.053] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[31Mar2025 04:20:29.326] [Worker-Main-24/WARN] [twilightforest/]: Dark forest tower could not find four small towers to place keys in.
+[31Mar2025 04:23:16.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Spooky Scary Skeleton]
+[31Mar2025 04:26:04.402] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[31Mar2025 04:26:04.403] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 04:27:00.402] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 04:27:00.404] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 04:27:09.254] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 04:27:09.255] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 04:27:29.253] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[31Mar2025 04:27:29.255] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[31Mar2025 04:27:50.554] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[31Mar2025 04:27:50.555] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[31Mar2025 04:27:50.556] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[31Mar2025 04:27:50.557] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[31Mar2025 04:27:55.951] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[31Mar2025 04:27:55.953] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[31Mar2025 04:28:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has completed the challenge [Almost Unkillable]
+[31Mar2025 04:28:03.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB succumbed to the Lich's explosive magic
+[31Mar2025 04:28:04.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [The Most Useful Key]
+[31Mar2025 04:28:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [A Fast Comeback]

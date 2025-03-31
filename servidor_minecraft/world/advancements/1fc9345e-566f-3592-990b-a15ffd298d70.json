@@ -4284,5 +4284,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-03-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-31 04:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-31 04:23:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
