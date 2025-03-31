@@ -3717,6 +3717,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-03-31 04:50:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2025-03-31 04:35:21 +0000"
