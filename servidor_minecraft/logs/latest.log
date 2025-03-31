@@ -290,3 +290,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [31Mar2025 05:35:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed MATTBXB
 [31Mar2025 05:35:05.214] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
 [31Mar2025 05:35:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was killed
+[31Mar2025 05:45:29.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[31Mar2025 05:45:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[31Mar2025 05:45:29.605] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[31Mar2025 05:46:00.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 05:46:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 05:46:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 05:46:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 05:46:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 05:46:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[31Mar2025 05:46:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 05:46:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 05:46:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 05:46:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Mar2025 05:46:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 05:46:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 05:46:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 05:46:00.992] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
