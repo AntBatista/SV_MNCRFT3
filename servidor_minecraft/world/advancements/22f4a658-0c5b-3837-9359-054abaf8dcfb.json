@@ -1776,6 +1776,7 @@
       "twilight_oak_planks": "2025-03-24 02:27:18 +0000",
       "twilight_oak_sign": "2025-03-30 22:57:53 +0000",
       "canopy_chest": "2025-03-25 02:48:10 +0000",
+      "twilight_oak_stairs": "2025-03-31 00:04:04 +0000",
       "twilight_oak_slab": "2025-03-26 04:19:23 +0000",
       "canopy_fence": "2025-03-28 04:14:39 +0000",
       "twilight_oak_log": "2025-03-23 22:36:09 +0000",
@@ -3016,6 +3017,54 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-30 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-30 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-03-30 23:17:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 23:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-30 23:28:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2025-03-30 23:36:07 +0000"
@@ -3028,45 +3077,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/magenta_bed": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
+      "previous_progression": "2025-03-30 23:36:07 +0000"
     },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-03-30 23:38:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/jungle_banister": {
-    "criteria": {
-      "has_item": "2025-03-30 23:17:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_carpet": {
-    "criteria": {
-      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
-    },
-    "done": true
+    "done": false
   },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-03-30 23:36:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-30 22:50:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_banner": {
-    "criteria": {
-      "has_magenta_wool": "2025-03-30 23:20:49 +0000"
     },
     "done": true
   },
@@ -3076,27 +3095,15 @@
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "previous_progression": "2025-03-30 23:36:07 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-03-30 23:17:45 +0000"
+      "coded_trigger": "2025-03-30 23:38:20 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_item": "2025-03-30 23:10:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-30 23:28:19 +0000"
+      "has_receptacle_of_familiar": "2025-03-30 23:40:05 +0000"
     },
     "done": true
   },
