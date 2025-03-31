@@ -3107,6 +3107,12 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-03-31 00:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-03-31 00:14:33 +0000"
@@ -3122,12 +3128,6 @@
   "twilightforest:recipes/misc/magic_map": {
     "criteria": {
       "has_item": "2025-03-31 00:16:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:hill1": {
-    "criteria": {
-      "redcap": "2025-03-31 00:09:14 +0000"
     },
     "done": true
   },
