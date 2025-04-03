@@ -183,3 +183,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 03:36:48.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [03Apr2025 03:36:49.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [03Apr2025 03:36:49.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[03Apr2025 03:43:47.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
+[03Apr2025 03:44:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> toy farmeando
+[03Apr2025 03:44:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> okey
+[03Apr2025 03:45:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vamos para el otro mundo?
+[03Apr2025 03:46:35.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo voy a farmear tambien, que necesito mas tumbas
+[03Apr2025 03:46:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vente entoces
+[03Apr2025 03:48:18.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:51249] logged in with entity id 6731 at (-1777.6478826846517, 63.0, 2569.148590327208)
+[03Apr2025 03:48:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[03Apr2025 03:48:20.442] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[03Apr2025 03:48:20.443] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[03Apr2025 03:48:27.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[03Apr2025 03:48:28.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[03Apr2025 03:48:28.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat

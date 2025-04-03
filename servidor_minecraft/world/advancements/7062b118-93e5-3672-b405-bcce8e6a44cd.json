@@ -3705,15 +3705,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
-      "snow_queen": "2025-03-31 04:56:50 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-03-31 05:05:36 +0000"
+      "has_item": "2025-03-31 04:35:21 +0000"
     },
     "done": true
   },
@@ -3721,12 +3715,6 @@
     "criteria": {
       "previous_progression": "2025-03-31 04:40:30 +0000",
       "queen": "2025-03-31 04:56:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-31 04:56:58 +0000"
     },
     "done": true
   },
@@ -3742,9 +3730,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "has_item": "2025-03-31 04:35:21 +0000"
+      "snow_queen": "2025-03-31 04:56:50 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-31 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-03-31 05:05:36 +0000"
     },
     "done": true
   },
