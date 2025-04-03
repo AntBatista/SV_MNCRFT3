@@ -262,3 +262,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 05:49:46.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [It's not time to tan]
 [03Apr2025 05:50:13.933] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [03Apr2025 05:50:13.935] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[03Apr2025 05:51:34.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Me voy bye
+[03Apr2025 05:51:37.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[03Apr2025 05:51:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[03Apr2025 05:51:37.240] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
