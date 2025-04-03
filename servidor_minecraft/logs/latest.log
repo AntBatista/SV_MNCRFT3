@@ -186,3 +186,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 16:13:24.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio was slain by Iron Golem
 [03Apr2025 16:14:59.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/15584, l='ServerLevel[world]', x=-1900.07, y=67.00, z=2520.91] died, message: 'Librarian was slain by Zombie'
 [03Apr2025 16:17:18.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Disenchanter]
+[03Apr2025 16:21:26.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[03Apr2025 16:21:26.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[03Apr2025 16:21:26.076] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[03Apr2025 16:22:13.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Apr2025 16:22:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Apr2025 16:22:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Apr2025 16:22:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Apr2025 16:22:13.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Apr2025 16:22:14.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Apr2025 16:22:14.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Apr2025 16:22:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Apr2025 16:22:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Apr2025 16:22:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Apr2025 16:22:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Apr2025 16:22:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Apr2025 16:22:14.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Apr2025 16:22:14.132] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

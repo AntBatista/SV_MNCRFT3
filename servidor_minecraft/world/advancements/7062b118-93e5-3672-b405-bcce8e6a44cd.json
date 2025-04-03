@@ -4039,6 +4039,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-03 16:20:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-03 15:24:54 +0000"
@@ -4068,6 +4074,12 @@
       "has_blaze_powder": "2025-04-03 15:24:54 +0000"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-03 16:20:24 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/disenchanter": {
     "criteria": {
