@@ -180,3 +180,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 14:32:12.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [03Apr2025 14:32:12.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [03Apr2025 14:38:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
+[03Apr2025 16:07:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Soul Magic]
