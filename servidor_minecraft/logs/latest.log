@@ -199,3 +199,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 03:49:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> trae lava
 [03Apr2025 03:52:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> donde tu estas manuel
 [03Apr2025 03:53:03.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> en la granja de exp
+[03Apr2025 04:08:39.721] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[03Apr2025 04:08:39.723] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
