@@ -3140,18 +3140,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2025-03-31 04:38:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-03-31 04:48:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-31 04:23:00 +0000"
@@ -3163,18 +3151,6 @@
       "has_redstone": "2025-03-31 04:23:00 +0000"
     },
     "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2025-03-31 04:38:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2025-03-31 04:40:26 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
@@ -3188,21 +3164,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/talk_grave_guardian": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "coded_trigger": "2025-03-31 05:29:53 +0000"
+      "has_redstone": "2025-03-31 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-31 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-31 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-03-31 04:38:35 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-03-31 04:38:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-03-31 04:23:00 +0000"
     },
     "done": true
   },
@@ -3218,15 +3212,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "has_redstone": "2025-03-31 04:23:00 +0000"
+      "previous_progression": "2025-03-31 04:40:26 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-03-31 04:48:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
-      "has_redstone": "2025-03-31 04:23:00 +0000"
+      "coded_trigger": "2025-03-31 05:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-03 03:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-03 03:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-03 03:55:01 +0000"
     },
     "done": true
   },
