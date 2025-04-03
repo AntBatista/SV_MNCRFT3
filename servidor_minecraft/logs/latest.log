@@ -169,3 +169,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 03:00:04.406] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [03Apr2025 03:00:04.419] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
 [03Apr2025 03:00:04.421] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[03Apr2025 03:23:19.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:46275] logged in with entity id 385 at (-1822.5354329431905, 55.0, 2523.312636837269)
+[03Apr2025 03:23:19.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[03Apr2025 03:23:20.898] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[03Apr2025 03:23:20.901] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[03Apr2025 03:23:24.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[03Apr2025 03:23:25.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[03Apr2025 03:23:25.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
