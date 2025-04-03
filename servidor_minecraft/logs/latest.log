@@ -201,3 +201,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 03:53:03.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> en la granja de exp
 [03Apr2025 04:08:39.721] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [03Apr2025 04:08:39.723] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[03Apr2025 04:16:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> duerman
+[03Apr2025 04:19:48.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Bargaining with Death]
