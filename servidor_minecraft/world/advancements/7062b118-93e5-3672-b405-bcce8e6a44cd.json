@@ -4051,6 +4051,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 16:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-04-03 14:58:38 +0000"
@@ -4060,6 +4066,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-03 15:24:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 16:17:18 +0000"
     },
     "done": true
   },
