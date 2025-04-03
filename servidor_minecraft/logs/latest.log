@@ -176,3 +176,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 03:23:24.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
 [03Apr2025 03:23:25.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [03Apr2025 03:23:25.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[03Apr2025 03:36:37.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:46111] logged in with entity id 3016 at (-1881.300000011921, 56.0, 2523.3806774411855)
+[03Apr2025 03:36:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[03Apr2025 03:36:39.695] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[03Apr2025 03:36:39.695] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[03Apr2025 03:36:48.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[03Apr2025 03:36:49.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[03Apr2025 03:36:49.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
