@@ -223,3 +223,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [03Apr2025 04:47:35.079] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [03Apr2025 04:48:46.580] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [03Apr2025 04:48:46.582] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[03Apr2025 04:59:07.183] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[03Apr2025 04:59:07.185] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[03Apr2025 04:59:22.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was killed by Antonio using magic
+[03Apr2025 04:59:22.937] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[03Apr2025 04:59:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> MAGIAAAA
+[03Apr2025 04:59:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
