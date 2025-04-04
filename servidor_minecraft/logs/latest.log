@@ -198,3 +198,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 04:28:53.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5465, l='ServerLevel[world]', x=-1823.94, y=64.00, z=2542.50] died, message: 'Butcher was slain by Zombie'
 [04Apr2025 04:41:06.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
 [04Apr2025 04:48:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Strange Encounter]
+[04Apr2025 04:56:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Black or White]
+[04Apr2025 04:57:55.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [A Small Cemetery]

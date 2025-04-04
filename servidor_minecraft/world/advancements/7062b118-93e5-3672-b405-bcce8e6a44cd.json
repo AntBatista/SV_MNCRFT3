@@ -4093,5 +4093,11 @@
     },
     "done": false
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-04-04 04:48:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
