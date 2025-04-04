@@ -200,3 +200,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 04:48:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Strange Encounter]
 [04Apr2025 04:56:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Black or White]
 [04Apr2025 04:57:55.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [A Small Cemetery]
+[04Apr2025 05:03:10.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> oye, me retiro
+[04Apr2025 05:03:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> me avisas cuandp te desconectes
