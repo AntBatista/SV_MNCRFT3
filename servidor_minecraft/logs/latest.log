@@ -170,3 +170,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 03:50:12.915] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [04Apr2025 03:50:12.930] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
 [04Apr2025 03:50:12.931] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[04Apr2025 03:59:57.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:59551] logged in with entity id 382 at (-1881.9995124142386, 63.9375, 2497.4971240944647)
+[04Apr2025 03:59:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[04Apr2025 03:59:59.381] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[04Apr2025 03:59:59.385] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[04Apr2025 04:00:06.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[04Apr2025 04:00:08.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[04Apr2025 04:00:08.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[04Apr2025 04:00:27.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Timed out
+[04Apr2025 04:00:27.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[04Apr2025 04:00:27.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[04Apr2025 04:00:46.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:56331] logged in with entity id 804 at (-1886.20462561496, 63.0, 2502.512499988079)
+[04Apr2025 04:00:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[04Apr2025 04:00:47.928] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[04Apr2025 04:00:47.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[04Apr2025 04:00:52.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[04Apr2025 04:00:53.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[04Apr2025 04:00:53.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat

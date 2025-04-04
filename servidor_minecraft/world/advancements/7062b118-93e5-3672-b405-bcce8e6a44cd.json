@@ -4039,27 +4039,9 @@
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2025-04-03 16:20:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-03 15:24:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-03 14:58:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/soul_magic": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 16:07:56 +0000"
     },
     "done": true
   },
@@ -4069,21 +4051,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-03 15:24:54 +0000"
     },
     "done": true
   },
-  "twilightforest:giants": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "pickaxe": "2025-04-03 16:20:24 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/disenchanter": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 16:17:18 +0000"
+      "has_blaze_powder": "2025-04-03 15:24:54 +0000"
     },
     "done": true
   },
@@ -4092,6 +4068,30 @@
       "has_blaze_powder": "2025-04-03 15:24:54 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 16:07:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 16:17:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-03 16:20:24 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-03 16:20:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
