@@ -188,3 +188,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 04:00:53.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [04Apr2025 04:00:53.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
 [04Apr2025 04:10:03.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[04Apr2025 04:26:38.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:47279] logged in with entity id 5440 at (-1776.286867989417, 63.0, 2569.7617721111264)
+[04Apr2025 04:26:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[04Apr2025 04:26:40.127] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[04Apr2025 04:26:40.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[04Apr2025 04:26:49.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[04Apr2025 04:26:50.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[04Apr2025 04:26:50.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[04Apr2025 04:28:53.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5465, l='ServerLevel[world]', x=-1823.94, y=64.00, z=2542.50] died, message: 'Butcher was slain by Zombie'
