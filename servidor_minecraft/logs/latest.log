@@ -187,3 +187,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 04:00:52.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [04Apr2025 04:00:53.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [04Apr2025 04:00:53.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[04Apr2025 04:10:03.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
