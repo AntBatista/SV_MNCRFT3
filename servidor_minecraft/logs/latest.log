@@ -196,3 +196,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [04Apr2025 04:26:50.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [04Apr2025 04:26:50.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
 [04Apr2025 04:28:53.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/5465, l='ServerLevel[world]', x=-1823.94, y=64.00, z=2542.50] died, message: 'Butcher was slain by Zombie'
+[04Apr2025 04:41:06.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved wrongly!
+[04Apr2025 04:48:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Strange Encounter]
