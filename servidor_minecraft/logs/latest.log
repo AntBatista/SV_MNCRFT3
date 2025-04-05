@@ -248,3 +248,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 04:14:11.444] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [05Apr2025 04:18:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Duerman a ver si amanece rapido
 [05Apr2025 04:19:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no tengo cama serca
+[05Apr2025 04:30:36.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> duerman
+[05Apr2025 04:32:20.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [The Parrots and the Bats]
