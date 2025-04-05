@@ -259,3 +259,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 04:44:23.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
 [05Apr2025 04:44:23.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
 [05Apr2025 04:44:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel vamos al otro mundo
+[05Apr2025 04:45:50.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> yo ya estube farmeando alla hace un rato
+[05Apr2025 04:52:06.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[05Apr2025 04:52:54.885] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 04:52:54.886] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 04:53:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel corre ayudame
+[05Apr2025 04:53:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> voy
+[05Apr2025 04:53:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster hit the ground too hard
+[05Apr2025 04:53:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> F
+[05Apr2025 04:54:06.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> toy lejos
+[05Apr2025 04:54:14.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[05Apr2025 04:54:46.986] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 04:54:46.987] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 04:55:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> viene o no_
+[05Apr2025 04:55:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ah vot
