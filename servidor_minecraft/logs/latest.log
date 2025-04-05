@@ -300,3 +300,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 05:04:30.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was slain by Mutant Zombie
 [05Apr2025 05:05:16.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Where Is The Stone Pen?]
 [05Apr2025 05:05:24.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Tomb Bound]
+[05Apr2025 05:14:55.779] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 05:14:55.780] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 05:15:00.726] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[05Apr2025 05:15:00.727] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[05Apr2025 05:15:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB froze to death
