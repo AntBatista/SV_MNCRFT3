@@ -273,3 +273,30 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 04:54:46.987] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [05Apr2025 04:55:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> viene o no_
 [05Apr2025 04:55:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ah vot
+[05Apr2025 04:55:46.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was doomed to fall
+[05Apr2025 04:58:02.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[05Apr2025 04:58:13.423] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[05Apr2025 04:58:13.430] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[05Apr2025 04:58:28.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[05Apr2025 04:58:42.122] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[05Apr2025 04:58:42.126] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[05Apr2025 04:58:53.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster moved wrongly!
+[05Apr2025 04:59:02.622] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 04:59:02.626] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 04:59:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was slain by Mutant Zombie
+[05Apr2025 04:59:42.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[05Apr2025 05:00:13.322] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 05:00:13.326] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 05:00:29.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[05Apr2025 05:01:53.778] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 05:01:53.779] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 05:02:02.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ayuda
+[05Apr2025 05:03:10.076] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 05:03:10.077] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 05:04:03.022] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[05Apr2025 05:04:03.027] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[05Apr2025 05:04:18.971] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[05Apr2025 05:04:18.976] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 05:04:30.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB was slain by Mutant Zombie
+[05Apr2025 05:05:16.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Where Is The Stone Pen?]
+[05Apr2025 05:05:24.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Tomb Bound]
