@@ -169,3 +169,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 02:44:31.157] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [05Apr2025 02:44:31.170] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
 [05Apr2025 02:44:31.170] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[05Apr2025 02:57:00.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:47105] logged in with entity id 381 at (-139.5, 64.0, 411.5)
+[05Apr2025 02:57:00.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[05Apr2025 02:57:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Easter]
+[05Apr2025 02:57:01.505] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[05Apr2025 02:57:01.507] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[05Apr2025 02:57:07.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[05Apr2025 02:57:08.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[05Apr2025 02:57:08.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[05Apr2025 03:01:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [What a Dungeon!]
+[05Apr2025 03:02:17.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[05Apr2025 03:02:17.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[05Apr2025 03:02:17.928] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[05Apr2025 03:03:37.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:33839] logged in with entity id 1616 at (-1808.2714719105643, 63.0, 2509.2363717290696)
+[05Apr2025 03:03:37.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[05Apr2025 03:03:39.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[05Apr2025 03:03:39.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[05Apr2025 03:03:43.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[05Apr2025 03:03:44.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[05Apr2025 03:03:44.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
