@@ -246,3 +246,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 04:13:35.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
 [05Apr2025 04:14:11.434] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [05Apr2025 04:14:11.444] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[05Apr2025 04:18:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Duerman a ver si amanece rapido
+[05Apr2025 04:19:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no tengo cama serca
