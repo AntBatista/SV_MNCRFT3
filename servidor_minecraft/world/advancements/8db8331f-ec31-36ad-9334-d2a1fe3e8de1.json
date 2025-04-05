@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-05 03:25:47 +0000",
       "minecraft:forest": "2025-04-05 03:00:56 +0000",
       "minecraft:savanna": "2025-04-05 02:57:01 +0000",
       "minecraft:plains": "2025-04-05 02:59:59 +0000"
@@ -223,9 +224,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-04-05 03:28:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-04-05 03:07:15 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-05 03:23:01 +0000"
     },
     "done": true
   },
@@ -270,6 +283,14 @@
       "has_cobblestone": "2025-04-05 03:06:37 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "stripped_twilight_oak_log": "2025-04-05 03:28:38 +0000",
+      "twilight_oak_log": "2025-04-05 03:28:40 +0000",
+      "twilight_oak_sapling": "2025-04-05 03:28:41 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -343,6 +364,25 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-05 03:24:29 +0000",
+      "minecraft:zombie": "2025-04-05 03:23:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 03:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-05 03:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-05 03:06:37 +0000"
@@ -403,6 +443,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-04-05 03:28:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-05 03:13:47 +0000"
@@ -412,6 +458,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-05 03:06:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_hanging_sign": {
+    "criteria": {
+      "has_item": "2025-04-05 03:28:38 +0000"
     },
     "done": true
   },
@@ -430,6 +482,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-05 03:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 03:22:55 +0000"
     },
     "done": true
   },
@@ -493,6 +551,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stripped_wood": {
+    "criteria": {
+      "has_item": "2025-04-05 03:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-05 03:06:37 +0000"
@@ -502,6 +566,24 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-05 03:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-05 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 03:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-05 03:23:01 +0000"
     },
     "done": true
   },
@@ -519,7 +601,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-05 03:16:11 +0000"
+      "bread": "2025-04-05 03:16:11 +0000",
+      "carrot": "2025-04-05 03:22:25 +0000"
     },
     "done": false
   },
