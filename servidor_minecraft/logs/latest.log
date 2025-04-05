@@ -188,3 +188,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 03:03:43.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
 [05Apr2025 03:03:44.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [05Apr2025 03:03:44.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[05Apr2025 03:03:56.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:35305] logged in with entity id 2086 at (-202.77306681478007, 63.5, 546.6999999880791)
+[05Apr2025 03:03:56.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[05Apr2025 03:03:56.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[05Apr2025 03:03:56.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[05Apr2025 03:04:01.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[05Apr2025 03:04:02.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[05Apr2025 03:04:02.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[05Apr2025 03:04:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> hay alguien
+[05Apr2025 03:04:32.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> SIII
+[05Apr2025 03:04:49.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> pregunta que paso con el server
+[05Apr2025 03:05:01.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> QUE PASO CON QUE
+[05Apr2025 03:05:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ES EL MISMO
+[05Apr2025 03:05:37.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> y por que estoy en casa el carajo
+[05Apr2025 03:06:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Getting an Upgrade]
+[05Apr2025 03:06:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Stone Age]
+[05Apr2025 03:06:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Sweet Dreams]
+[05Apr2025 03:07:04.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vere si te puedo traer
+[05Apr2025 03:07:37.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> oh mandame las cordenadas aver si llego
+[05Apr2025 03:07:40.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Easter Egg Searcher]
+[05Apr2025 03:08:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> creo que te puedo buscar
+[05Apr2025 03:09:05.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> un momentos
+[05Apr2025 03:10:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> acepta lo que te va a llegar
+[05Apr2025 03:13:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> dale
+[05Apr2025 03:13:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Where Is The Stone Pen?]
+[05Apr2025 03:13:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Knowledge of Death]
+[05Apr2025 03:13:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Tomb Bound]

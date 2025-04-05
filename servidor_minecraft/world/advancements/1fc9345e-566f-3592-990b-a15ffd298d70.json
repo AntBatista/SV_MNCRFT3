@@ -4350,15 +4350,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 04:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-04-03 04:30:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_blackstone": "2025-04-03 05:38:18 +0000"
+      "has_melon": "2025-04-03 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-03 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-03 05:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-03 05:31:13 +0000"
     },
     "done": true
   },
@@ -4369,9 +4393,15 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "entered_nether": "2025-04-03 05:31:13 +0000"
+      "has_netherrack": "2025-04-03 05:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-03 05:38:18 +0000"
     },
     "done": true
   },
@@ -4393,39 +4423,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/death_master": {
-    "criteria": {
-      "has_prevent_burn": "2025-04-03 05:49:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-03 05:38:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/prevent_death_burn": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 05:49:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/trade_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 04:19:48 +0000"
     },
     "done": true
   },
@@ -4435,45 +4435,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-03 05:38:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-03 05:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-04-03 05:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-04-03 04:30:21 +0000"
     },
     "done": true
   },
@@ -4495,12 +4459,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-04-03 05:31:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-04-03 05:38:18 +0000"
@@ -4519,21 +4477,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-04-03 04:30:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-03 05:38:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-04-03 05:39:29 +0000"
     },
     "done": true
   },
@@ -4543,9 +4489,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_netherrack": "2025-04-03 05:31:43 +0000"
+      "has_blackstone": "2025-04-03 05:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-03 05:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-03 05:39:29 +0000"
     },
     "done": true
   },
@@ -4555,9 +4513,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_blackstone": "2025-04-03 05:38:18 +0000"
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-03 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-04-03 05:49:46 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 05:49:46 +0000"
     },
     "done": true
   },
