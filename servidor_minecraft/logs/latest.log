@@ -250,3 +250,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 04:19:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no tengo cama serca
 [05Apr2025 04:30:36.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> duerman
 [05Apr2025 04:32:20.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [The Parrots and the Bats]
+[05Apr2025 04:40:20.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> hablamos mañana
+[05Apr2025 04:40:22.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[05Apr2025 04:40:22.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[05Apr2025 04:40:22.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[05Apr2025 04:40:29.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> me retiro, avisen cuando se desconenten
+[05Apr2025 04:44:23.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[05Apr2025 04:44:23.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[05Apr2025 04:44:23.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[05Apr2025 04:44:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel vamos al otro mundo
