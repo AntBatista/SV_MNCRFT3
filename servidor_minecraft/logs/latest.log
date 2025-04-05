@@ -218,3 +218,18 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Apr2025 03:17:42.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Suit Up]
 [05Apr2025 03:23:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Monster Hunter]
 [05Apr2025 03:31:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [What a Deal!]
+[05Apr2025 03:46:08.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -13010.54721920144,-56.67647087614428,17579.21044913605
+[05Apr2025 03:46:32.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Silence of the Forest]
+[05Apr2025 03:46:58.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:47927] logged in with entity id 17028 at (-1846.229287937209, 64.0, 2526.0124824668806)
+[05Apr2025 03:46:58.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[05Apr2025 03:47:00.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[05Apr2025 03:47:00.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[05Apr2025 03:47:09.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[05Apr2025 03:47:10.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[05Apr2025 03:47:10.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[05Apr2025 03:47:22.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> vienes que vamos a buscar materiales
+[05Apr2025 03:47:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> oro, metal y eso
+[05Apr2025 03:48:02.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> materiales donde?
+[05Apr2025 03:48:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> la otra dimencion
+[05Apr2025 03:48:42.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no, de momento
+[05Apr2025 03:53:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"aqui", x:-15348, y:18, z:19482, dim:twilightforest:twilight_forest]
