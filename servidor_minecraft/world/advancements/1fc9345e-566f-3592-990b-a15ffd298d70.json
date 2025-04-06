@@ -3242,6 +3242,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-04-06 03:18:47 +0000",
       "minecraft:cow": "2025-03-24 02:17:26 +0000"
     },
     "done": false
@@ -4578,6 +4579,12 @@
   "tombstone:adventure/use_magic_impregnation": {
     "criteria": {
       "coded_trigger": "2025-04-06 02:48:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-04-06 03:21:43 +0000"
     },
     "done": true
   },
