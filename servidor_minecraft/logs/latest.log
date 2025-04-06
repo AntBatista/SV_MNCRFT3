@@ -440,3 +440,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 05:41:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Local Brewery]
 [06Apr2025 05:42:15.259] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [06Apr2025 05:42:15.262] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 05:54:02.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[06Apr2025 05:54:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[06Apr2025 05:54:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Hay varias tumbas, quiero dos
+[06Apr2025 06:00:05.011] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[06Apr2025 06:00:05.013] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[06Apr2025 06:00:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[06Apr2025 06:00:07.566] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[06Apr2025 06:00:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Disenchanter]
+[06Apr2025 06:00:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Soul Magic]
+[06Apr2025 06:00:27.015] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[06Apr2025 06:00:27.017] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 06:00:30.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[06Apr2025 06:00:30.014] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved

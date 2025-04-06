@@ -28,6 +28,7 @@
       "minecraft:grove": "2025-04-06 05:17:57 +0000",
       "minecraft:cold_ocean": "2025-03-23 05:06:08 +0000",
       "minecraft:forest": "2025-03-22 04:18:33 +0000",
+      "minecraft:lush_caves": "2025-04-06 05:52:01 +0000",
       "minecraft:deep_cold_ocean": "2025-04-06 05:19:59 +0000",
       "minecraft:frozen_ocean": "2025-03-22 06:07:47 +0000",
       "minecraft:ocean": "2025-04-06 05:25:35 +0000",
@@ -3558,6 +3559,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-06 05:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
@@ -3567,6 +3574,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 06:00:25 +0000"
     },
     "done": true
   },
@@ -3603,6 +3616,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-04-06 04:01:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 06:00:25 +0000"
     },
     "done": true
   },
