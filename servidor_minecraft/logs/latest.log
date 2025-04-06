@@ -244,3 +244,83 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 03:40:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya
 [06Apr2025 03:41:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> te hago tp o ya na no le necesitas ?
 [06Apr2025 03:41:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya no
+[06Apr2025 03:44:25.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:54705] logged in with entity id 69041 at (-1824.1736148763337, 69.0, 2445.5185154501264)
+[06Apr2025 03:44:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[06Apr2025 03:44:26.794] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[06Apr2025 03:44:26.795] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[06Apr2025 03:44:34.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 03:44:35.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 03:44:35.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[06Apr2025 03:47:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio vamos para el otro mundo a la isla flotante
+[06Apr2025 03:48:06.383] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 03:48:06.385] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 03:48:07.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> todavia falta matar unos cuntos boss para llegar ahi
+[06Apr2025 03:48:13.321] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 03:48:13.322] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 03:48:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo estoy en el otro mundo haciendo mina
+[06Apr2025 03:48:44.063] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 03:48:44.070] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 03:48:55.964] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 03:48:55.972] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 03:50:04.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> pero vamos a ir
+[06Apr2025 03:50:25.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Para ir a la isla del cielo no requiere matar mas, ya matamos lo que son
+[06Apr2025 03:50:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> No, solo matamos a 1 uno de 4
+[06Apr2025 03:51:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> esta bien pero podemos ir
+[06Apr2025 03:51:51.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22f4a658-0c5b-3837-9359-054abaf8dcfb timed out
+[06Apr2025 03:51:51.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DavidMaster
+[06Apr2025 03:51:51.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[06Apr2025 03:51:51.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7062b118-93e5-3672-b405-bcce8e6a44cd timed out
+[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Antonio
+[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1 timed out
+[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player mastercheeffff
+[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1fc9345e-566f-3592-990b-a15ffd298d70 timed out
+[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MATTBXB
+[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 03:51:55.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[06Apr2025 03:51:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[06Apr2025 03:51:55.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[06Apr2025 03:51:55.970] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Apr2025 03:51:56.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
+[06Apr2025 03:51:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[06Apr2025 03:51:56.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[06Apr2025 03:52:00.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
+[06Apr2025 03:52:00.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[06Apr2025 03:52:00.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[06Apr2025 03:52:09.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Timed out
+[06Apr2025 03:52:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[06Apr2025 03:52:09.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[06Apr2025 03:53:20.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:60835] logged in with entity id 71936 at (-1912.9210843770131, 71.0, 2531.0910767409105)
+[06Apr2025 03:53:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[06Apr2025 03:53:21.233] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[06Apr2025 03:53:21.234] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[06Apr2025 03:53:24.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[06Apr2025 03:53:25.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[06Apr2025 03:53:25.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[06Apr2025 03:53:41.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:58429] logged in with entity id 72374 at (-1832.2900191637268, 63.0, 2521.2180100567075)
+[06Apr2025 03:53:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[06Apr2025 03:53:42.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[06Apr2025 03:53:42.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[06Apr2025 03:53:49.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 03:53:50.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 03:53:50.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[06Apr2025 03:53:51.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:40929] logged in with entity id 72438 at (-1834.0808410537934, 63.0, 2521.8749988229356)
+[06Apr2025 03:53:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[06Apr2025 03:53:52.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[06Apr2025 03:53:52.041] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 03:53:56.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 03:53:57.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 03:53:57.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[06Apr2025 03:56:19.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=72, z=210} BlockPos{x=-194, y=71, z=208}
+[06Apr2025 03:56:25.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
+[06Apr2025 03:56:25.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
+[06Apr2025 03:56:25.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
+[06Apr2025 03:56:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Zabiel no vamos para el otro mundo
+[06Apr2025 03:56:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> vamos
+[06Apr2025 03:56:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> lluveri no a entrado
+[06Apr2025 03:57:04.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=62, z=202} BlockPos{x=-202, y=62, z=203}
+[06Apr2025 03:57:10.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=59, z=197} BlockPos{x=-204, y=59, z=199}
+[06Apr2025 03:59:08.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.86886294679,-56.92159999847412,17579.190231389875
+[06Apr2025 03:59:32.158] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 03:59:32.161] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
