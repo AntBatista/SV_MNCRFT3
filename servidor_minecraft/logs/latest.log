@@ -222,3 +222,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 22:52:18.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
 [06Apr2025 22:52:18.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
 [06Apr2025 22:57:07.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5958, l='ServerLevel[world]', x=-1111.70, y=91.05, z=2381.67] died, message: 'Villager was slain by Zombie'
+[06Apr2025 23:03:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"cueva", x:-974, y:-7, z:2377, dim:minecraft:overworld]
+[06Apr2025 23:20:06.992] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[06Apr2025 23:20:06.993] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 23:20:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[06Apr2025 23:20:08.992] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 23:20:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> noooooooo
