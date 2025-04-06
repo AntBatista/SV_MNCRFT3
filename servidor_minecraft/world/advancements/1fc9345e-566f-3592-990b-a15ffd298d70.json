@@ -4575,5 +4575,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 02:48:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

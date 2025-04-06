@@ -3511,21 +3511,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-04-05 05:05:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-05 04:32:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_recall": {
-    "criteria": {
-      "coded_trigger": "2025-04-05 05:05:24 +0000"
     },
     "done": true
   },
@@ -3535,6 +3523,18 @@
       "minecraft:chicken": "2025-04-05 04:32:20 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-05 05:05:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 05:05:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

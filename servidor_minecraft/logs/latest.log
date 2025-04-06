@@ -200,3 +200,32 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 02:48:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Magic Impregnation]
 [06Apr2025 02:49:35.277] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [06Apr2025 02:49:35.286] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 02:52:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Mastery 1]
+[06Apr2025 02:53:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Bargaining with Death]
+[06Apr2025 02:53:50.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:41383] logged in with entity id 14786 at (-1824.1736148763337, 69.0, 2445.5185154501264)
+[06Apr2025 02:53:50.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[06Apr2025 02:53:52.424] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[06Apr2025 02:53:52.425] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[06Apr2025 02:53:59.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 02:54:00.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[06Apr2025 02:54:00.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[06Apr2025 02:54:06.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[06Apr2025 02:54:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[06Apr2025 02:54:06.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[06Apr2025 02:54:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Knowledge raises the soul]
+[06Apr2025 02:55:30.812] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 02:55:30.823] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 02:55:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Strong or Careful]
+[06Apr2025 02:55:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
+[06Apr2025 02:55:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Your First Grave]
+[06Apr2025 02:55:33.338] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 03:01:46.020] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 03:01:46.022] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 03:05:30.013] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 03:05:30.021] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 03:06:03.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 03:06:03.768] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 03:06:26.262] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 03:06:26.281] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 03:07:06.863] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 03:07:06.873] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
