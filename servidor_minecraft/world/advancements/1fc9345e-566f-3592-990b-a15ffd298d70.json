@@ -119,6 +119,7 @@
       "entered_stables": "2025-03-23 03:44:24 +0000",
       "entered_hay_storage": "2025-03-25 04:04:36 +0000",
       "entered_fishing_ship": "2025-03-27 02:14:17 +0000",
+      "entered_deep_crypt": "2025-04-06 06:10:52 +0000",
       "entered_druid_circle": "2025-03-26 02:38:15 +0000",
       "entered_large_dungeon": "2025-03-20 14:30:13 +0000",
       "entered_ice_pit": "2025-03-21 15:42:54 +0000",
@@ -1912,6 +1913,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_deep_crypt": "2025-04-06 06:10:52 +0000",
       "entered_ice_pit": "2025-03-21 15:42:54 +0000",
       "entered_castle": "2025-03-21 16:19:21 +0000",
       "entered_monster_maze": "2025-04-06 05:26:30 +0000"
@@ -4643,6 +4645,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-06 05:38:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 06:10:51 +0000"
     },
     "done": true
   },
