@@ -49,6 +49,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_deep_crypt": "2025-04-06 06:12:03 +0000",
       "entered_castle": "2025-03-22 03:48:01 +0000",
       "entered_monster_maze": "2025-04-06 05:26:33 +0000"
     },
@@ -58,6 +59,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-29 04:31:31 +0000",
       "entered_fishing_ship": "2025-04-06 05:20:44 +0000",
+      "entered_deep_crypt": "2025-04-06 06:12:03 +0000",
       "entered_castle": "2025-03-22 03:48:01 +0000",
       "entered_ruined_building": "2025-03-22 04:18:32 +0000",
       "entered_monster_maze": "2025-04-06 05:26:33 +0000"
@@ -193,6 +195,7 @@
       "rotten_flesh": "2025-03-22 04:29:28 +0000",
       "suspicious_stew": "2025-03-22 03:57:42 +0000",
       "cookie": "2025-04-03 04:04:40 +0000",
+      "glow_berries": "2025-04-06 06:20:42 +0000",
       "melon_slice": "2025-03-24 02:29:05 +0000",
       "beetroot": "2025-04-05 04:30:02 +0000",
       "cooked_chicken": "2025-03-22 04:52:31 +0000",
@@ -3547,6 +3550,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-04-06 06:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-06 04:01:12 +0000"
@@ -3565,6 +3586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
@@ -3577,6 +3604,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-06 06:15:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/soul_magic": {
     "criteria": {
       "coded_trigger": "2025-04-06 06:00:25 +0000"
@@ -3586,6 +3637,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
     },
     "done": true
   },
@@ -3604,6 +3661,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-04-06 04:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
     },
     "done": true
   },
@@ -3637,6 +3706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
@@ -3655,9 +3730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
     },
     "done": true
   },
@@ -3673,15 +3760,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-06 05:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-06 06:15:55 +0000"
     },
     "done": true
   },

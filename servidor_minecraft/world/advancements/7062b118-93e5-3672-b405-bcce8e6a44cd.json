@@ -56,6 +56,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-26 02:26:33 +0000",
       "entered_stables": "2025-03-25 23:38:08 +0000",
+      "entered_deep_crypt": "2025-04-06 06:11:47 +0000",
       "entered_druid_circle": "2025-03-26 02:38:17 +0000",
       "entered_large_dungeon": "2025-03-20 14:30:05 +0000",
       "entered_ice_pit": "2025-03-21 15:42:51 +0000",
@@ -1730,6 +1731,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_deep_crypt": "2025-04-06 06:11:47 +0000",
       "entered_ice_pit": "2025-03-21 15:42:51 +0000",
       "entered_castle": "2025-03-21 16:19:18 +0000",
       "entered_monster_maze": "2025-04-06 05:35:13 +0000"

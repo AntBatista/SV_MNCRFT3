@@ -466,3 +466,31 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 06:13:30.015] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
 [06Apr2025 06:13:34.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
 [06Apr2025 06:13:34.263] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[06Apr2025 06:14:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
+[06Apr2025 06:14:04.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
+[06Apr2025 06:14:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[06Apr2025 06:14:04.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[06Apr2025 06:14:15.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:42209] logged in with entity id 131417 at (-1814.5, 64.0, 2526.5)
+[06Apr2025 06:14:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[06Apr2025 06:14:15.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[06Apr2025 06:14:15.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 06:14:19.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 06:14:20.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 06:14:20.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[06Apr2025 06:14:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
+[06Apr2025 06:21:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> les hago TP ?
+[06Apr2025 06:21:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si
+[06Apr2025 06:21:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[06Apr2025 06:22:08.381] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[06Apr2025 06:22:08.382] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 06:22:24.065] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[06Apr2025 06:22:24.067] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 06:22:26.018] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[06Apr2025 06:22:26.019] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[06Apr2025 06:22:29.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB froze to death
+[06Apr2025 06:22:29.017] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[06Apr2025 06:22:36.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ehh digame
+[06Apr2025 06:22:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hagame tp tambien
+[06Apr2025 06:22:46.414] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[06Apr2025 06:22:46.417] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[06Apr2025 06:23:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
