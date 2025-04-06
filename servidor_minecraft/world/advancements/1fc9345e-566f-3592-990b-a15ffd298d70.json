@@ -334,6 +334,7 @@
       "cooked_beef": "2025-03-24 02:36:50 +0000",
       "beef": "2025-03-20 14:46:33 +0000",
       "baked_potato": "2025-03-21 16:22:04 +0000",
+      "apple": "2025-04-06 04:32:15 +0000",
       "potato": "2025-03-22 23:36:36 +0000",
       "mutton": "2025-03-20 14:33:21 +0000",
       "bread": "2025-03-21 15:34:41 +0000",
@@ -4588,9 +4589,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-04-06 04:33:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-04-06 04:07:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2025-04-06 04:38:31 +0000"
     },
     "done": true
   },

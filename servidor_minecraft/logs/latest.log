@@ -375,3 +375,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 04:29:28.361] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [06Apr2025 04:29:44.209] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [06Apr2025 04:29:44.211] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:35:18.488] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[06Apr2025 04:35:21.157] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:35:21.163] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:35:53.711] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:35:53.713] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:36:00.512] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:36:00.514] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:36:25.756] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:36:25.759] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:37:12.223] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:37:12.224] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:37:56.811] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:37:56.813] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:38:13.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:38:13.762] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:38:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [What Was That Noise?]
