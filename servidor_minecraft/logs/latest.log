@@ -179,3 +179,24 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 02:02:08.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [06Apr2025 02:02:09.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [06Apr2025 02:02:09.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[06Apr2025 02:35:04.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:52113] logged in with entity id 8912 at (-1911.999350399246, 63.0, 2528.6201549184075)
+[06Apr2025 02:35:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[06Apr2025 02:35:05.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[06Apr2025 02:35:05.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[06Apr2025 02:35:11.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[06Apr2025 02:35:12.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[06Apr2025 02:35:12.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[06Apr2025 02:39:22.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:46467] logged in with entity id 10144 at (-1826.9313796933193, 69.0, 2440.3579590476725)
+[06Apr2025 02:39:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[06Apr2025 02:39:23.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[06Apr2025 02:39:23.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 02:39:30.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 02:39:31.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 02:39:31.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[06Apr2025 02:42:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"graja", x:-2122, y:144, z:2419, dim:minecraft:overworld]
+[06Apr2025 02:45:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Ashes 'n Bones]
+[06Apr2025 02:46:14.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
+[06Apr2025 02:46:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [A Strange Grave Dust]
+[06Apr2025 02:48:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Magic Impregnation]
+[06Apr2025 02:49:35.277] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 02:49:35.286] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
