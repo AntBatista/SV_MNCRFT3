@@ -60,7 +60,8 @@
       "entered_ice_pit": "2025-03-21 15:42:51 +0000",
       "entered_castle": "2025-03-21 16:19:18 +0000",
       "entered_watch_tower": "2025-03-26 02:24:50 +0000",
-      "entered_ruined_building": "2025-03-21 15:34:22 +0000"
+      "entered_ruined_building": "2025-03-21 15:34:22 +0000",
+      "entered_monster_maze": "2025-04-06 05:35:13 +0000"
     },
     "done": false
   },
@@ -1729,7 +1730,8 @@
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_ice_pit": "2025-03-21 15:42:51 +0000",
-      "entered_castle": "2025-03-21 16:19:18 +0000"
+      "entered_castle": "2025-03-21 16:19:18 +0000",
+      "entered_monster_maze": "2025-04-06 05:35:13 +0000"
     },
     "done": false
   },
@@ -4174,6 +4176,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-04-06 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:hidden_under_the_roots": {
+    "criteria": {
+      "entered_monster_maze": "2025-04-06 05:35:13 +0000"
     },
     "done": true
   },

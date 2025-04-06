@@ -431,3 +431,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 05:31:20.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [06Apr2025 05:31:21.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [06Apr2025 05:31:21.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[06Apr2025 05:33:38.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si quiere ven que tamos en una dungueon
+[06Apr2025 05:35:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
+[06Apr2025 05:35:13.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Hidden under Roots]
+[06Apr2025 05:37:28.859] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 05:37:28.860] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 05:41:42.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Local Brewery]
+[06Apr2025 05:41:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Local Brewery]
+[06Apr2025 05:42:15.259] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 05:42:15.262] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
