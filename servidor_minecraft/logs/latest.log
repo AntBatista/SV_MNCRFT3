@@ -324,3 +324,35 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 03:59:08.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.86886294679,-56.92159999847412,17579.190231389875
 [06Apr2025 03:59:32.158] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [06Apr2025 03:59:32.161] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:02:28.509] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:02:28.510] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:04:37.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -10.221699685565909,0.5800000131130219,-0.9003133875339699
+[06Apr2025 04:07:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [The Boots Are Mine!]
+[06Apr2025 04:08:18.408] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:08:18.412] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:08:26.909] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:08:26.910] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:08:28.507] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:08:28.509] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:08:34.257] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:08:34.258] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:08:55.209] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:08:55.210] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:09:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Boots Are Mine!]
+[06Apr2025 04:10:09.708] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:10:09.710] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:10:24.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:10:24.760] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:10:32.658] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:10:32.659] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:16:32.711] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[06Apr2025 04:16:32.712] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:16:33.961] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:16:33.962] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:16:53.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was killed by MATTBXB using magic
+[06Apr2025 04:16:53.814] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[06Apr2025 04:17:33.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[06Apr2025 04:18:57.062] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:18:57.072] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 04:19:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was killed by MATTBXB using magic
+[06Apr2025 04:19:22.567] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved

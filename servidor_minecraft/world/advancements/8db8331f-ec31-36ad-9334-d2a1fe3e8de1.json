@@ -541,6 +541,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-05 04:11:26 +0000",
+      "cooked_beef": "2025-04-06 04:15:21 +0000",
       "cooked_cod": "2025-04-05 04:19:39 +0000",
       "bread": "2025-04-05 03:16:11 +0000",
       "cookie": "2025-04-06 03:05:43 +0000",
@@ -1628,6 +1629,18 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-06 03:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-06 04:20:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-04-06 04:09:15 +0000"
     },
     "done": true
   },
