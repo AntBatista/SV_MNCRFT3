@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-06 03:36:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-04-06 03:23:05 +0000"
