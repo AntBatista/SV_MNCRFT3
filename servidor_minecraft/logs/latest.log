@@ -494,3 +494,30 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 06:22:46.414] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
 [06Apr2025 06:22:46.417] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [06Apr2025 06:23:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
+[06Apr2025 06:29:24.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved too quickly! 8.262933558635496,0.0625,5.637332506847997
+[06Apr2025 06:29:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Tomb Bound]
+[06Apr2025 06:32:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Bye hablamos manana
+[06Apr2025 06:32:39.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[06Apr2025 06:32:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[06Apr2025 06:32:39.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[06Apr2025 06:32:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> adios
+[06Apr2025 06:33:01.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[06Apr2025 06:33:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[06Apr2025 06:33:01.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[06Apr2025 06:33:07.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[06Apr2025 06:33:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[06Apr2025 06:33:07.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[06Apr2025 06:33:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Apr2025 06:33:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 06:33:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 06:33:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 06:33:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Apr2025 06:34:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Apr2025 06:34:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Apr2025 06:34:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Apr2025 06:34:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 06:34:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Apr2025 06:34:00.922] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

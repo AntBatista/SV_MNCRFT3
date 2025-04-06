@@ -4792,6 +4792,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 06:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-06 06:16:43 +0000"
