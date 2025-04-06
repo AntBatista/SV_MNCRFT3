@@ -400,3 +400,34 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 04:48:16.865] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [06Apr2025 04:48:16.867] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
 [06Apr2025 05:00:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [The treasure is at hand]
+[06Apr2025 05:03:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"por aqui", x:-3952, y:64, z:239, dim:minecraft:overworld]
+[06Apr2025 05:10:46.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2254, y=57, z=2003} BlockPos{x=-2254, y=58, z=2003}
+[06Apr2025 05:11:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> corre
+[06Apr2025 05:13:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Funeral Theft]
+[06Apr2025 05:19:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> VUELVE
+[06Apr2025 05:20:21.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5014197419217226
+[06Apr2025 05:20:21.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5345016779521075
+[06Apr2025 05:20:21.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5673984310308242
+[06Apr2025 05:20:21.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
+[06Apr2025 05:20:21.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
+[06Apr2025 05:20:21.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7556810640940057
+[06Apr2025 05:20:21.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.9396504765753662
+[06Apr2025 05:20:21.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
+[06Apr2025 05:20:21.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 1.3116471492168102
+[06Apr2025 05:20:21.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7542254260017671
+[06Apr2025 05:20:21.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.4102277067350997
+[06Apr2025 05:20:22.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.3584299507368769
+[06Apr2025 05:20:22.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.4750275563150126
+[06Apr2025 05:21:52.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.4055101626368014
+[06Apr2025 05:21:53.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7344600579230018
+[06Apr2025 05:21:53.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.8947440987137725
+[06Apr2025 05:21:53.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.049391672898082
+[06Apr2025 05:26:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hidden under Roots]
+[06Apr2025 05:26:33.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Hidden under Roots]
+[06Apr2025 05:31:14.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:53753] logged in with entity id 119174 at (-15817.903144150783, -5.0, 20461.119637525328)
+[06Apr2025 05:31:14.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[06Apr2025 05:31:15.231] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[06Apr2025 05:31:15.231] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[06Apr2025 05:31:20.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 05:31:21.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 05:31:21.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat

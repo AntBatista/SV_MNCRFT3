@@ -4111,12 +4111,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-04-06 02:52:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-06 02:03:01 +0000"
@@ -4126,12 +4120,6 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-06 02:03:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/trade_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-04-06 02:53:47 +0000"
     },
     "done": true
   },
@@ -4165,15 +4153,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "tombstone:adventure/mastery_1": {
     "criteria": {
-      "has_raw_copper_block": "2025-04-06 03:36:47 +0000"
+      "coded_trigger": "2025-04-06 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 02:53:47 +0000"
     },
     "done": true
   },
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-04-06 03:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-06 03:36:47 +0000"
     },
     "done": true
   },

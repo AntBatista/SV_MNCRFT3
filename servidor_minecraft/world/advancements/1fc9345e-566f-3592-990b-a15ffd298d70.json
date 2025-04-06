@@ -125,6 +125,7 @@
       "entered_watch_tower": "2025-03-26 02:24:47 +0000",
       "entered_sunken_shrine": "2025-03-25 04:01:48 +0000",
       "entered_ruined_building": "2025-03-21 15:34:22 +0000",
+      "entered_monster_maze": "2025-04-06 05:26:30 +0000",
       "entered_desert_tomb": "2025-03-25 04:20:39 +0000"
     },
     "done": false
@@ -1911,7 +1912,8 @@
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_ice_pit": "2025-03-21 15:42:54 +0000",
-      "entered_castle": "2025-03-21 16:19:21 +0000"
+      "entered_castle": "2025-03-21 16:19:21 +0000",
+      "entered_monster_maze": "2025-04-06 05:26:30 +0000"
     },
     "done": false
   },
@@ -4586,6 +4588,12 @@
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2025-04-06 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:hidden_under_the_roots": {
+    "criteria": {
+      "entered_monster_maze": "2025-04-06 05:26:30 +0000"
     },
     "done": true
   },
