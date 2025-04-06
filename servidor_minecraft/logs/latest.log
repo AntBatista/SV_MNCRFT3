@@ -1,15 +1,15 @@
-[06Apr2025 02:00:35.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06Apr2025 02:00:35.556] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[06Apr2025 02:00:36.889] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06Apr2025 02:00:36.968] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[06Apr2025 02:00:37.257] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06Apr2025 02:00:37.261] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Apr2025 02:00:37.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Apr2025 02:00:37.265] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Apr2025 02:00:37.433] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[06Apr2025 02:00:39.494] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Apr2025 02:00:39.572] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Apr2025 02:00:39.798] [main/INFO] [Puzzles Lib/]: Loading 23 mods:
+[06Apr2025 22:02:16.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Apr2025 22:02:16.557] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[06Apr2025 22:02:20.673] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Apr2025 22:02:20.754] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[06Apr2025 22:02:21.083] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Apr2025 22:02:21.088] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Apr2025 22:02:21.091] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Apr2025 22:02:21.093] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Apr2025 22:02:21.270] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[06Apr2025 22:02:23.553] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Apr2025 22:02:23.603] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Apr2025 22:02:23.769] [main/INFO] [Puzzles Lib/]: Loading 23 mods:
 	- badpackets 0.4.3
 	- creativecore 2.12.31
 	- cristellib 1.1.6
@@ -34,10 +34,10 @@
 	- voicechat 1.20.1-2.5.26
 	- wthit 8.16.1
 		\-- waila 8.16.1
-[06Apr2025 02:00:39.805] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Apr2025 02:00:39.817] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Apr2025 02:00:40.873] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06Apr2025 02:00:41.202] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[06Apr2025 22:02:23.775] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Apr2025 22:02:23.787] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Apr2025 22:02:24.876] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Apr2025 22:02:25.283] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
@@ -67,457 +67,124 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[06Apr2025 02:00:49.251] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[06Apr2025 02:00:49.411] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06Apr2025 02:00:49.411] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06Apr2025 02:00:49.423] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[06Apr2025 02:00:51.739] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[06Apr2025 02:00:51.755] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[06Apr2025 02:00:51.758] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[06Apr2025 02:00:51.760] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[06Apr2025 02:00:51.903] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[06Apr2025 02:00:51.904] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[06Apr2025 02:00:51.905] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[06Apr2025 02:00:51.917] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[06Apr2025 02:00:52.074] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[06Apr2025 02:00:52.086] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[06Apr2025 02:00:52.087] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[06Apr2025 02:00:52.087] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[06Apr2025 02:00:52.179] [main/INFO] [journeymap/]: Initializing Packet Registries
-[06Apr2025 02:00:52.285] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[06Apr2025 02:00:52.311] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[06Apr2025 02:00:52.328] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[06Apr2025 02:00:52.330] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[06Apr2025 02:00:52.334] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[06Apr2025 02:00:52.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[06Apr2025 02:00:52.397] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[06Apr2025 02:00:53.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
-[06Apr2025 02:00:53.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[06Apr2025 02:00:53.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[06Apr2025 02:00:53.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[06Apr2025 02:00:53.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[06Apr2025 02:00:53.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[06Apr2025 02:00:53.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
-[06Apr2025 02:00:53.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[06Apr2025 02:00:53.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[06Apr2025 02:00:53.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06Apr2025 02:00:53.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[06Apr2025 02:00:53.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[06Apr2025 02:00:53.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
-[06Apr2025 02:00:53.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[06Apr2025 02:00:53.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[06Apr2025 02:00:53.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Apr2025 02:00:54.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[06Apr2025 02:00:54.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[06Apr2025 02:00:54.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[06Apr2025 02:00:54.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[06Apr2025 02:00:54.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[06Apr2025 02:00:56.728] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Apr2025 02:00:59.748] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[06Apr2025 02:00:59.749] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[06Apr2025 02:01:02.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[06Apr2025 02:01:02.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[06Apr2025 02:01:02.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[06Apr2025 02:01:02.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[06Apr2025 02:01:02.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[06Apr2025 02:01:02.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[06Apr2025 02:01:02.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[06Apr2025 02:01:02.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[06Apr2025 02:01:02.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[06Apr2025 02:01:02.850] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1773 advancements
-[06Apr2025 02:01:02.856] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[06Apr2025 02:01:05.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06Apr2025 02:01:05.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Apr2025 02:01:05.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Apr2025 02:01:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Apr2025 02:01:05.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Apr2025 02:01:05.561] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Apr2025 02:01:05.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Apr2025 02:01:05.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Apr2025 02:01:05.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Apr2025 02:01:05.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Apr2025 02:01:05.700] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Apr2025 02:01:05.715] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[06Apr2025 02:01:05.718] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[06Apr2025 02:01:05.719] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[06Apr2025 02:01:05.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Apr2025 02:01:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Apr2025 02:01:14.468] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.576] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.592] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.614] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.618] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.630] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.643] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:15.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:16.205] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:16.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Apr2025 02:01:17.207] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Apr2025 02:01:17.705] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[06Apr2025 02:01:18.134] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8430 ms
-[06Apr2025 02:01:18.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.444s)! For help, type "help"
-[06Apr2025 02:01:18.191] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Apr2025 02:01:18.204] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[06Apr2025 02:01:18.285] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[06Apr2025 02:01:18.286] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[06Apr2025 02:01:18.286] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[06Apr2025 02:01:18.287] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[06Apr2025 02:01:18.287] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV_MNCRFT3/servidor_minecraft/./config/infernalmobs.cfg
-[06Apr2025 02:01:18.288] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[06Apr2025 02:01:18.303] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
-[06Apr2025 02:01:18.304] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[06Apr2025 02:01:59.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:55507] logged in with entity id 369 at (-2120.962923725724, 127.0, 2414.4092807436664)
-[06Apr2025 02:01:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
-[06Apr2025 02:02:03.324] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
-[06Apr2025 02:02:03.331] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
-[06Apr2025 02:02:03.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
-[06Apr2025 02:02:08.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[06Apr2025 02:02:09.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[06Apr2025 02:02:09.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
-[06Apr2025 02:35:04.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:52113] logged in with entity id 8912 at (-1911.999350399246, 63.0, 2528.6201549184075)
-[06Apr2025 02:35:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
-[06Apr2025 02:35:05.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
-[06Apr2025 02:35:05.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
-[06Apr2025 02:35:11.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
-[06Apr2025 02:35:12.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
-[06Apr2025 02:35:12.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
-[06Apr2025 02:39:22.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:46467] logged in with entity id 10144 at (-1826.9313796933193, 69.0, 2440.3579590476725)
-[06Apr2025 02:39:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
-[06Apr2025 02:39:23.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
-[06Apr2025 02:39:23.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
-[06Apr2025 02:39:30.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 02:39:31.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 02:39:31.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
-[06Apr2025 02:42:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"graja", x:-2122, y:144, z:2419, dim:minecraft:overworld]
-[06Apr2025 02:45:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Ashes 'n Bones]
-[06Apr2025 02:46:14.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
-[06Apr2025 02:46:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [A Strange Grave Dust]
-[06Apr2025 02:48:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Magic Impregnation]
-[06Apr2025 02:49:35.277] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 02:49:35.286] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 02:52:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Mastery 1]
-[06Apr2025 02:53:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Bargaining with Death]
-[06Apr2025 02:53:50.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:41383] logged in with entity id 14786 at (-1824.1736148763337, 69.0, 2445.5185154501264)
-[06Apr2025 02:53:50.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
-[06Apr2025 02:53:52.424] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
-[06Apr2025 02:53:52.425] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
-[06Apr2025 02:53:59.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 02:54:00.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 02:54:00.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
-[06Apr2025 02:54:06.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
-[06Apr2025 02:54:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
-[06Apr2025 02:54:06.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
-[06Apr2025 02:54:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Knowledge raises the soul]
-[06Apr2025 02:55:30.812] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 02:55:30.823] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 02:55:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Strong or Careful]
-[06Apr2025 02:55:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff froze to death
-[06Apr2025 02:55:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Your First Grave]
-[06Apr2025 02:55:33.338] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:01:46.020] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 03:01:46.022] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:05:30.013] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 03:05:30.021] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:06:03.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 03:06:03.768] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:06:26.262] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 03:06:26.281] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:07:06.863] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 03:07:06.873] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 03:15:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Take Aim]
-[06Apr2025 03:20:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Bone Crusher]
-[06Apr2025 03:21:43.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [An adventure awaits you]
-[06Apr2025 03:23:05.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Bug Stomper]
-[06Apr2025 03:23:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> Aceptaaaa
-[06Apr2025 03:24:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> el que?
-[06Apr2025 03:26:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Enchanter]
-[06Apr2025 03:36:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [We Need to Go Deeper]
-[06Apr2025 03:38:10.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> manuel puedes teleportarme
-[06Apr2025 03:38:38.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo no estoy en el pueblo
-[06Apr2025 03:38:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> te puedo llevar donde esta manuel
-[06Apr2025 03:40:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> ????
-[06Apr2025 03:40:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya
-[06Apr2025 03:41:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> te hago tp o ya na no le necesitas ?
-[06Apr2025 03:41:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya no
-[06Apr2025 03:44:25.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:54705] logged in with entity id 69041 at (-1824.1736148763337, 69.0, 2445.5185154501264)
-[06Apr2025 03:44:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
-[06Apr2025 03:44:26.794] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
-[06Apr2025 03:44:26.795] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
-[06Apr2025 03:44:34.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 03:44:35.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 03:44:35.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
-[06Apr2025 03:47:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio vamos para el otro mundo a la isla flotante
-[06Apr2025 03:48:06.383] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 03:48:06.385] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 03:48:07.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> todavia falta matar unos cuntos boss para llegar ahi
-[06Apr2025 03:48:13.321] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 03:48:13.322] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 03:48:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yo estoy en el otro mundo haciendo mina
-[06Apr2025 03:48:44.063] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 03:48:44.070] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 03:48:55.964] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 03:48:55.972] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 03:50:04.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> pero vamos a ir
-[06Apr2025 03:50:25.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Para ir a la isla del cielo no requiere matar mas, ya matamos lo que son
-[06Apr2025 03:50:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> No, solo matamos a 1 uno de 4
-[06Apr2025 03:51:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> esta bien pero podemos ir
-[06Apr2025 03:51:51.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22f4a658-0c5b-3837-9359-054abaf8dcfb timed out
-[06Apr2025 03:51:51.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DavidMaster
-[06Apr2025 03:51:51.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
-[06Apr2025 03:51:51.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7062b118-93e5-3672-b405-bcce8e6a44cd timed out
-[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Antonio
-[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
-[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1 timed out
-[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player mastercheeffff
-[06Apr2025 03:51:51.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
-[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1fc9345e-566f-3592-990b-a15ffd298d70 timed out
-[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MATTBXB
-[06Apr2025 03:51:51.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
-[06Apr2025 03:51:55.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
-[06Apr2025 03:51:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
-[06Apr2025 03:51:55.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
-[06Apr2025 03:51:55.970] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[06Apr2025 03:51:56.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Timed out
-[06Apr2025 03:51:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
-[06Apr2025 03:51:56.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
-[06Apr2025 03:52:00.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
-[06Apr2025 03:52:00.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
-[06Apr2025 03:52:00.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
-[06Apr2025 03:52:09.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Timed out
-[06Apr2025 03:52:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
-[06Apr2025 03:52:09.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
-[06Apr2025 03:53:20.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:60835] logged in with entity id 71936 at (-1912.9210843770131, 71.0, 2531.0910767409105)
-[06Apr2025 03:53:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
-[06Apr2025 03:53:21.233] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
-[06Apr2025 03:53:21.234] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
-[06Apr2025 03:53:24.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
-[06Apr2025 03:53:25.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
-[06Apr2025 03:53:25.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
-[06Apr2025 03:53:41.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:58429] logged in with entity id 72374 at (-1832.2900191637268, 63.0, 2521.2180100567075)
-[06Apr2025 03:53:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
-[06Apr2025 03:53:42.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
-[06Apr2025 03:53:42.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
-[06Apr2025 03:53:49.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 03:53:50.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
-[06Apr2025 03:53:50.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
-[06Apr2025 03:53:51.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:40929] logged in with entity id 72438 at (-1834.0808410537934, 63.0, 2521.8749988229356)
-[06Apr2025 03:53:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
-[06Apr2025 03:53:52.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
-[06Apr2025 03:53:52.041] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
-[06Apr2025 03:53:56.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 03:53:57.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 03:53:57.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
-[06Apr2025 03:56:19.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=72, z=210} BlockPos{x=-194, y=71, z=208}
-[06Apr2025 03:56:25.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
-[06Apr2025 03:56:25.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
-[06Apr2025 03:56:25.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=68, z=206} BlockPos{x=-194, y=67, z=206}
-[06Apr2025 03:56:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Zabiel no vamos para el otro mundo
-[06Apr2025 03:56:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> vamos
-[06Apr2025 03:56:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> lluveri no a entrado
-[06Apr2025 03:57:04.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=62, z=202} BlockPos{x=-202, y=62, z=203}
-[06Apr2025 03:57:10.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=59, z=197} BlockPos{x=-204, y=59, z=199}
-[06Apr2025 03:59:08.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -13010.86886294679,-56.92159999847412,17579.190231389875
-[06Apr2025 03:59:32.158] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 03:59:32.161] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:02:28.509] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:02:28.510] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:04:37.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! -10.221699685565909,0.5800000131130219,-0.9003133875339699
-[06Apr2025 04:07:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [The Boots Are Mine!]
-[06Apr2025 04:08:18.408] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:08:18.412] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:08:26.909] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:08:26.910] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:08:28.507] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:08:28.509] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:08:34.257] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:08:34.258] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:08:55.209] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:08:55.210] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:09:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Boots Are Mine!]
-[06Apr2025 04:10:09.708] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:10:09.710] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:10:24.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:10:24.760] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:10:32.658] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:10:32.659] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:16:32.711] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:16:32.712] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:16:33.961] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:16:33.962] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:16:53.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff was killed by MATTBXB using magic
-[06Apr2025 04:16:53.814] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:17:33.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
-[06Apr2025 04:18:57.062] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:18:57.072] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:19:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster was killed by MATTBXB using magic
-[06Apr2025 04:19:22.567] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:25:07.661] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:25:07.662] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:25:53.310] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:25:53.311] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:26:56.911] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
-[06Apr2025 04:26:56.912] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 04:27:03.411] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:27:03.412] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:27:42.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB drowned
-[06Apr2025 04:28:21.365] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:28:21.368] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:28:25.710] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:28:25.712] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:28:44.909] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:28:44.910] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:29:28.360] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:29:28.361] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:29:44.209] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:29:44.211] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:35:18.488] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
-[06Apr2025 04:35:21.157] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:35:21.163] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:35:53.711] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:35:53.713] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 04:36:00.512] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:36:00.514] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:36:25.756] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:36:25.759] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:37:12.223] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:37:12.224] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:37:56.811] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:37:56.813] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:38:13.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
-[06Apr2025 04:38:13.762] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
-[06Apr2025 04:38:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [What Was That Noise?]
-[06Apr2025 04:42:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Home Sweet Home]
-[06Apr2025 04:42:39.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
-[06Apr2025 04:47:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> hablamos mañana
-[06Apr2025 04:47:09.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
-[06Apr2025 04:47:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
-[06Apr2025 04:47:09.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
-[06Apr2025 04:48:16.865] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 04:48:16.867] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 05:00:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [The treasure is at hand]
-[06Apr2025 05:03:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"por aqui", x:-3952, y:64, z:239, dim:minecraft:overworld]
-[06Apr2025 05:10:46.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2254, y=57, z=2003} BlockPos{x=-2254, y=58, z=2003}
-[06Apr2025 05:11:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> corre
-[06Apr2025 05:13:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Funeral Theft]
-[06Apr2025 05:19:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> VUELVE
-[06Apr2025 05:20:21.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5014197419217226
-[06Apr2025 05:20:21.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5345016779521075
-[06Apr2025 05:20:21.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.5673984310308242
-[06Apr2025 05:20:21.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
-[06Apr2025 05:20:21.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
-[06Apr2025 05:20:21.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7556810640940057
-[06Apr2025 05:20:21.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.9396504765753662
-[06Apr2025 05:20:21.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.0973738521770429
-[06Apr2025 05:20:21.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 1.3116471492168102
-[06Apr2025 05:20:21.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7542254260017671
-[06Apr2025 05:20:21.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.4102277067350997
-[06Apr2025 05:20:22.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.3584299507368769
-[06Apr2025 05:20:22.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DavidMaster) moved wrongly! 0.4750275563150126
-[06Apr2025 05:21:52.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.4055101626368014
-[06Apr2025 05:21:53.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.7344600579230018
-[06Apr2025 05:21:53.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 0.8947440987137725
-[06Apr2025 05:21:53.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MATTBXB) moved wrongly! 1.049391672898082
-[06Apr2025 05:26:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [Hidden under Roots]
-[06Apr2025 05:26:33.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Hidden under Roots]
-[06Apr2025 05:31:14.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:53753] logged in with entity id 119174 at (-15817.903144150783, -5.0, 20461.119637525328)
-[06Apr2025 05:31:14.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
-[06Apr2025 05:31:15.231] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
-[06Apr2025 05:31:15.231] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
-[06Apr2025 05:31:20.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[06Apr2025 05:31:21.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[06Apr2025 05:31:21.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
-[06Apr2025 05:33:38.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si quiere ven que tamos en una dungueon
-[06Apr2025 05:35:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
-[06Apr2025 05:35:13.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Hidden under Roots]
-[06Apr2025 05:37:28.859] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 05:37:28.860] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 05:41:42.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Local Brewery]
-[06Apr2025 05:41:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Local Brewery]
-[06Apr2025 05:42:15.259] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
-[06Apr2025 05:42:15.262] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
-[06Apr2025 05:54:02.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
-[06Apr2025 05:54:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
-[06Apr2025 05:54:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Hay varias tumbas, quiero dos
-[06Apr2025 06:00:05.011] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
-[06Apr2025 06:00:05.013] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:00:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
-[06Apr2025 06:00:07.566] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:00:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Disenchanter]
-[06Apr2025 06:00:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Soul Magic]
-[06Apr2025 06:00:27.015] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
-[06Apr2025 06:00:27.017] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:00:30.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
-[06Apr2025 06:00:30.014] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:10:51.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Greed may lead to loss]
-[06Apr2025 06:11:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> venga
-[06Apr2025 06:11:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
-[06Apr2025 06:11:46.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to MATTBXB]
-[06Apr2025 06:12:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
-[06Apr2025 06:13:19.611] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
-[06Apr2025 06:13:19.613] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:13:23.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
-[06Apr2025 06:13:23.018] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:13:30.013] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
-[06Apr2025 06:13:30.015] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:13:34.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
-[06Apr2025 06:13:34.263] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:14:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
-[06Apr2025 06:14:04.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Timed out
-[06Apr2025 06:14:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
-[06Apr2025 06:14:04.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
-[06Apr2025 06:14:15.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:42209] logged in with entity id 131417 at (-1814.5, 64.0, 2526.5)
-[06Apr2025 06:14:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
-[06Apr2025 06:14:15.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
-[06Apr2025 06:14:15.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
-[06Apr2025 06:14:19.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 06:14:20.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
-[06Apr2025 06:14:20.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
-[06Apr2025 06:14:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> tp
-[06Apr2025 06:21:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> les hago TP ?
-[06Apr2025 06:21:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> si
-[06Apr2025 06:21:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
-[06Apr2025 06:22:08.381] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
-[06Apr2025 06:22:08.382] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:22:24.065] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
-[06Apr2025 06:22:24.067] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:22:26.018] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
-[06Apr2025 06:22:26.019] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:22:29.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB froze to death
-[06Apr2025 06:22:29.017] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
-[06Apr2025 06:22:36.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ehh digame
-[06Apr2025 06:22:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> hagame tp tambien
-[06Apr2025 06:22:46.414] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
-[06Apr2025 06:22:46.417] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
-[06Apr2025 06:23:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to Antonio]
-[06Apr2025 06:29:24.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio moved too quickly! 8.262933558635496,0.0625,5.637332506847997
-[06Apr2025 06:29:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Tomb Bound]
-[06Apr2025 06:32:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Bye hablamos manana
-[06Apr2025 06:32:39.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
-[06Apr2025 06:32:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
-[06Apr2025 06:32:39.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
-[06Apr2025 06:32:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> adios
-[06Apr2025 06:33:01.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
-[06Apr2025 06:33:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
-[06Apr2025 06:33:01.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
-[06Apr2025 06:33:07.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
-[06Apr2025 06:33:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
-[06Apr2025 06:33:07.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
-[06Apr2025 06:33:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[06Apr2025 06:33:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Apr2025 06:33:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Apr2025 06:33:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06Apr2025 06:33:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06Apr2025 06:34:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06Apr2025 06:34:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[06Apr2025 06:34:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06Apr2025 06:34:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06Apr2025 06:34:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06Apr2025 06:34:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06Apr2025 06:34:00.922] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Apr2025 22:02:32.772] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[06Apr2025 22:02:32.927] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Apr2025 22:02:32.930] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Apr2025 22:02:32.948] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[06Apr2025 22:02:35.293] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[06Apr2025 22:02:35.306] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[06Apr2025 22:02:35.310] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[06Apr2025 22:02:35.312] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[06Apr2025 22:02:35.476] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[06Apr2025 22:02:35.478] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[06Apr2025 22:02:35.479] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[06Apr2025 22:02:35.498] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[06Apr2025 22:02:35.684] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06Apr2025 22:02:35.696] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[06Apr2025 22:02:35.696] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06Apr2025 22:02:35.696] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[06Apr2025 22:02:35.786] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Apr2025 22:02:35.895] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[06Apr2025 22:02:35.915] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[06Apr2025 22:02:35.931] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[06Apr2025 22:02:35.932] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[06Apr2025 22:02:35.935] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[06Apr2025 22:02:36.020] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[06Apr2025 22:02:36.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06Apr2025 22:02:36.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
+[06Apr2025 22:02:36.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[06Apr2025 22:02:36.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[06Apr2025 22:02:36.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[06Apr2025 22:02:36.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[06Apr2025 22:02:36.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[06Apr2025 22:02:37.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
+[06Apr2025 22:02:37.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Apr2025 22:02:37.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[06Apr2025 22:02:37.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Apr2025 22:02:37.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[06Apr2025 22:02:37.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[06Apr2025 22:02:37.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
+[06Apr2025 22:02:37.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[06Apr2025 22:02:37.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[06Apr2025 22:02:37.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Apr2025 22:02:37.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Apr2025 22:02:37.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[06Apr2025 22:02:38.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[06Apr2025 22:02:38.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[06Apr2025 22:02:38.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[06Apr2025 22:02:40.230] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Apr2025 22:02:43.030] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[06Apr2025 22:02:43.030] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[06Apr2025 22:02:45.794] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[06Apr2025 22:02:45.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[06Apr2025 22:02:45.846] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[06Apr2025 22:02:45.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[06Apr2025 22:02:45.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[06Apr2025 22:02:45.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[06Apr2025 22:02:45.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[06Apr2025 22:02:45.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[06Apr2025 22:02:45.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[06Apr2025 22:02:46.053] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1773 advancements
+[06Apr2025 22:02:46.062] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[06Apr2025 22:02:48.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Apr2025 22:02:48.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Apr2025 22:02:48.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Apr2025 22:02:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Apr2025 22:02:48.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Apr2025 22:02:49.023] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Apr2025 22:02:49.123] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Apr2025 22:02:49.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Apr2025 22:02:49.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Apr2025 22:02:49.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Apr2025 22:02:49.150] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[06Apr2025 22:02:49.151] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[06Apr2025 22:02:49.152] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[06Apr2025 22:02:49.157] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Apr2025 22:02:49.159] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Apr2025 22:02:49.161] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Apr2025 22:02:49.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Apr2025 22:02:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Apr2025 22:02:58.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.560] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.584] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.599] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.615] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.633] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.636] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.645] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.653] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:58.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:59.202] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:02:59.912] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:03:00.185] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Apr2025 22:03:00.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[06Apr2025 22:03:01.185] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[06Apr2025 22:03:01.240] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8056 ms
+[06Apr2025 22:03:01.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.101s)! For help, type "help"
+[06Apr2025 22:03:01.281] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Apr2025 22:03:01.289] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[06Apr2025 22:03:01.404] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[06Apr2025 22:03:01.405] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[06Apr2025 22:03:01.406] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[06Apr2025 22:03:01.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[06Apr2025 22:03:01.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV_MNCRFT3/servidor_minecraft/./config/infernalmobs.cfg
+[06Apr2025 22:03:01.407] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06Apr2025 22:03:01.425] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
+[06Apr2025 22:03:01.426] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06Apr2025 22:03:58.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:36625] logged in with entity id 371 at (-1885.7487355997444, 64.0, 2503.40861324344)
+[06Apr2025 22:03:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[06Apr2025 22:04:01.614] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[06Apr2025 22:04:01.620] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[06Apr2025 22:04:01.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[06Apr2025 22:04:08.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 22:04:09.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 22:04:09.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[06Apr2025 22:08:17.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:51749] logged in with entity id 1439 at (-1847.7819261964628, 62.9375, 2506.491346691163)
+[06Apr2025 22:08:17.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[06Apr2025 22:08:18.799] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[06Apr2025 22:08:18.800] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 22:08:24.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 22:08:25.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 22:08:25.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
