@@ -391,3 +391,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 04:38:13.758] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [06Apr2025 04:38:13.762] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [06Apr2025 04:38:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has made the advancement [What Was That Noise?]
+[06Apr2025 04:42:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Home Sweet Home]
+[06Apr2025 04:42:39.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
+[06Apr2025 04:47:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> hablamos mañana
+[06Apr2025 04:47:09.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[06Apr2025 04:47:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[06Apr2025 04:47:09.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[06Apr2025 04:48:16.865] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[06Apr2025 04:48:16.867] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
