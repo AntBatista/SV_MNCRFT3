@@ -194,3 +194,30 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 22:39:53.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB froze to death
 [06Apr2025 22:39:54.003] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
 [06Apr2025 22:40:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has made the advancement [Soulbound]
+[06Apr2025 22:45:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
+[06Apr2025 22:46:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> ME ESCUCHAS
+[06Apr2025 22:46:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> no
+[06Apr2025 22:46:57.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> tu no me eschucas tampoco
+[06Apr2025 22:47:06.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> NO
+[06Apr2025 22:47:13.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[06Apr2025 22:47:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[06Apr2025 22:47:13.791] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[06Apr2025 22:47:17.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[06Apr2025 22:47:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[06Apr2025 22:47:17.488] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[06Apr2025 22:47:48.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55527d64[id=<null>,name=MATTBXB,properties={},legacy=false] (/127.144.174.94:42669) lost connection: Disconnected
+[06Apr2025 22:47:51.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:54059] logged in with entity id 4390 at (-1542.5619433737647, 66.0, 2338.506876376131)
+[06Apr2025 22:47:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[06Apr2025 22:47:52.400] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[06Apr2025 22:47:52.401] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[06Apr2025 22:47:57.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 22:47:58.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[06Apr2025 22:47:58.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[06Apr2025 22:48:29.637] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c754139[id=<null>,name=MATTBXB,properties={},legacy=false] (/127.144.174.94:35095) lost connection: Disconnected
+[06Apr2025 22:52:08.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:43467] logged in with entity id 5395 at (-1540.2622881300733, 66.0, 2338.268116272316)
+[06Apr2025 22:52:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[06Apr2025 22:52:10.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[06Apr2025 22:52:10.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[06Apr2025 22:52:17.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 22:52:18.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[06Apr2025 22:52:18.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat

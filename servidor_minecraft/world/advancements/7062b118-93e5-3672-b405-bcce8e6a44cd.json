@@ -4194,5 +4194,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_soulbound": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 22:40:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
