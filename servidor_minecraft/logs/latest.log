@@ -399,3 +399,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [06Apr2025 04:47:09.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
 [06Apr2025 04:48:16.865] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
 [06Apr2025 04:48:16.867] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[06Apr2025 05:00:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [The treasure is at hand]
