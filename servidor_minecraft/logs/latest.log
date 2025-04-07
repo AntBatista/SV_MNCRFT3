@@ -204,3 +204,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [07Apr2025 02:38:23.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [07Apr2025 02:38:24.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
 [07Apr2025 02:38:24.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[07Apr2025 02:59:57.569] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[07Apr2025 02:59:57.570] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[07Apr2025 03:00:06.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster withered away
+[07Apr2025 03:01:20.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22f4a658-0c5b-3837-9359-054abaf8dcfb timed out
+[07Apr2025 03:01:20.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DavidMaster
+[07Apr2025 03:01:20.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[07Apr2025 03:01:35.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[07Apr2025 03:01:35.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[07Apr2025 03:01:35.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[07Apr2025 03:01:35.237] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
