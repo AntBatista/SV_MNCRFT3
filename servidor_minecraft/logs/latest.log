@@ -183,3 +183,26 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [07Apr2025 23:00:44.163] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [07Apr2025 23:00:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
 [07Apr2025 23:00:46.150] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[07Apr2025 23:29:17.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio was kicked for floating too long!
+[07Apr2025 23:29:17.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[07Apr2025 23:29:17.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[07Apr2025 23:29:17.444] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[07Apr2025 23:29:17.514] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Apr2025 23:29:39.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:51833] logged in with entity id 7815 at (-2029.6435634152526, 97.6747773417336, 2459.1980149640326)
+[07Apr2025 23:29:39.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[07Apr2025 23:29:39.738] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[07Apr2025 23:29:39.738] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[07Apr2025 23:29:45.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[07Apr2025 23:29:46.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[07Apr2025 23:29:46.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[07Apr2025 23:29:48.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio was kicked for floating too long!
+[07Apr2025 23:29:48.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Flying is not enabled on this server
+[07Apr2025 23:29:48.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[07Apr2025 23:29:48.489] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[07Apr2025 23:30:25.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:55925] logged in with entity id 8218 at (-2029.074174608822, 84.44343425613727, 2459.8063609607625)
+[07Apr2025 23:30:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[07Apr2025 23:30:26.434] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[07Apr2025 23:30:26.434] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[07Apr2025 23:30:30.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[07Apr2025 23:30:31.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[07Apr2025 23:30:31.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
