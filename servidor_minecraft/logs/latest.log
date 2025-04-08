@@ -305,3 +305,26 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 03:37:03.611] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [08Apr2025 03:38:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [A Seedy Place]
 [08Apr2025 03:44:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Parrots and the Bats]
+[08Apr2025 03:54:02.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[08Apr2025 03:54:02.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[08Apr2025 03:54:02.853] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[08Apr2025 03:54:04.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[08Apr2025 03:54:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[08Apr2025 03:54:04.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[08Apr2025 03:54:18.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[08Apr2025 03:54:18.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[08Apr2025 03:54:18.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[08Apr2025 03:54:58.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Apr2025 03:54:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Apr2025 03:54:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Apr2025 03:54:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Apr2025 03:54:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Apr2025 03:55:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Apr2025 03:55:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[08Apr2025 03:55:00.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Apr2025 03:55:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Apr2025 03:55:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Apr2025 03:55:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Apr2025 03:55:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Apr2025 03:55:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Apr2025 03:55:00.310] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
