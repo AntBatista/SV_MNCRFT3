@@ -276,3 +276,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 03:13:35.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
 [08Apr2025 03:13:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Postmortal]
 [08Apr2025 03:13:49.502] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[08Apr2025 03:18:59.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[08Apr2025 03:18:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[08Apr2025 03:18:59.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff
+[08Apr2025 03:19:36.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a2cb694[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.187.213.183:41411) lost connection: Disconnected
+[08Apr2025 03:19:46.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:45985] logged in with entity id 34027 at (-15846.588439619547, 7.0, 20242.882587768374)
+[08Apr2025 03:19:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[08Apr2025 03:19:46.949] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[08Apr2025 03:19:46.950] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[08Apr2025 03:19:51.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[08Apr2025 03:19:52.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[08Apr2025 03:19:52.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[08Apr2025 03:22:18.252] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[08Apr2025 03:23:05.180] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:23:05.181] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
