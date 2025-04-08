@@ -223,3 +223,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 02:52:05.814] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [08Apr2025 02:52:05.816] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [08Apr2025 02:54:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Magic Impregnation]
+[08Apr2025 02:58:57.361] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:58:57.362] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:59:08.466] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:59:08.468] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:59:21.261] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:59:21.262] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:59:47.274] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[08Apr2025 02:59:47.276] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[08Apr2025 03:01:11.510] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[08Apr2025 03:01:11.512] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[08Apr2025 03:01:13.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[08Apr2025 03:01:13.519] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[08Apr2025 03:01:47.761] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[08Apr2025 03:01:47.766] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[08Apr2025 03:01:51.261] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:01:51.263] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 03:03:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> dame tp antonio
+[08Apr2025 03:03:36.705] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:03:36.706] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 03:03:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio
+[08Apr2025 03:04:31.060] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:04:31.062] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 03:04:43.058] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:04:43.059] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 03:06:04.206] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 03:06:04.208] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
