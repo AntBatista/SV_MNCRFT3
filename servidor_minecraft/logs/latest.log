@@ -290,3 +290,18 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 03:22:18.252] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
 [08Apr2025 03:23:05.180] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [08Apr2025 03:23:05.181] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 03:28:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"aa", x:-15358, y:10, z:20220, dim:twilightforest:twilight_forest]
+[08Apr2025 03:28:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[08Apr2025 03:29:02.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> me too
+[08Apr2025 03:29:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[08Apr2025 03:29:43.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4717ms or 94 ticks behind
+[08Apr2025 03:29:43.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff moved too quickly! 9.312650644687892,0.023088109101532694,4.043602003825072
+[08Apr2025 03:29:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"castillo", x:-16119, y:85, z:19991, dim:twilightforest:twilight_forest]
+[08Apr2025 03:29:50.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[08Apr2025 03:30:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported MATTBXB to Antonio]
+[08Apr2025 03:32:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Time To Even The Scales]
+[08Apr2025 03:32:04.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Bring Out Your Dead]
+[08Apr2025 03:33:27.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has reached the goal [Alpha Fur]
+[08Apr2025 03:37:03.611] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[08Apr2025 03:38:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [A Seedy Place]
+[08Apr2025 03:44:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [The Parrots and the Bats]
