@@ -1633,9 +1633,27 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-04-06 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-06 04:20:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-04-06 04:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-06 04:25:41 +0000"
     },
     "done": true
   },
@@ -1648,18 +1666,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-06 04:35:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-06 04:25:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2025-04-06 04:42:36 +0000"
     },
     "done": true
   },
@@ -1687,13 +1693,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_stone_slab": "2025-04-06 04:20:55 +0000"
+      "has_redstone": "2025-04-06 04:35:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-06 04:35:06 +0000"
     },
@@ -1711,15 +1717,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "has_redstone": "2025-04-06 04:35:06 +0000"
+      "coded_trigger": "2025-04-06 04:42:36 +0000"
     },
     "done": true
   },
-  "twilightforest:hill1": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "redcap": "2025-04-06 04:09:15 +0000"
+      "has_beef": "2025-04-08 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-08 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-08 02:35:12 +0000"
     },
     "done": true
   },

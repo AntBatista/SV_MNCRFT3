@@ -202,3 +202,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 02:18:04.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Que van hacer?
 [08Apr2025 02:18:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> reventar todo lo que se curce
 [08Apr2025 02:18:58.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> vueno voy despues, no tengo como defendeme en el otro mundo
+[08Apr2025 02:28:27.471] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4664431e[id=<null>,name=mastercheeffff,properties={},legacy=false] (/127.187.213.183:34777) lost connection: Disconnected
+[08Apr2025 02:28:43.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:47033] logged in with entity id 9357 at (-1913.5503557518923, 71.0, 2530.1028660994552)
+[08Apr2025 02:28:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[08Apr2025 02:28:44.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[08Apr2025 02:28:44.816] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[08Apr2025 02:28:52.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[08Apr2025 02:28:53.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[08Apr2025 02:28:53.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[08Apr2025 02:30:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Los muchacho estan en el otro mundo zabiel
+[08Apr2025 02:33:11.309] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:33:11.326] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:42:08.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio tp
+[08Apr2025 02:42:22.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[08Apr2025 02:45:45.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
