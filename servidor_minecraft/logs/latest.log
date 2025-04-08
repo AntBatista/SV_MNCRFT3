@@ -216,3 +216,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [08Apr2025 02:42:08.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio tp
 [08Apr2025 02:42:22.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
 [08Apr2025 02:45:45.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved wrongly!
+[08Apr2025 02:47:27.462] [Server thread/WARN] [tombstone/]: The death event of the player MATTBXB was canceled by another mod
+[08Apr2025 02:47:27.465] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[08Apr2025 02:47:51.815] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:47:51.816] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:52:05.814] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[08Apr2025 02:52:05.816] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[08Apr2025 02:54:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has made the advancement [Magic Impregnation]
