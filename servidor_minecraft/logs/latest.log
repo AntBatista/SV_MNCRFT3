@@ -173,3 +173,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [09Apr2025 01:31:21.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [09Apr2025 01:31:23.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [09Apr2025 01:31:23.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[09Apr2025 02:03:26.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:36977] logged in with entity id 5980 at (-1890.492583574293, 65.9375, 2528.204223437051)
+[09Apr2025 02:03:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[09Apr2025 02:03:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[09Apr2025 02:03:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[09Apr2025 02:03:32.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[09Apr2025 02:03:33.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[09Apr2025 02:03:33.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[09Apr2025 02:07:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
