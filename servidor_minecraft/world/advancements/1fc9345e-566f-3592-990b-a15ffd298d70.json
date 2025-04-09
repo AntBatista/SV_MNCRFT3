@@ -5022,6 +5022,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ally_enhancer": {
+    "criteria": {
+      "coded_trigger": "2025-04-09 03:16:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/zombie_scepter": {
     "criteria": {
       "has_item": "2025-04-09 03:09:13 +0000"
