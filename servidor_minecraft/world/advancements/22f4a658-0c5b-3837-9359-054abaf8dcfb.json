@@ -3797,12 +3797,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_magic_impregnation": {
-    "criteria": {
-      "coded_trigger": "2025-04-08 02:54:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-08 02:47:21 +0000"
@@ -3818,6 +3812,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-04-08 02:47:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 02:54:45 +0000"
     },
     "done": true
   },

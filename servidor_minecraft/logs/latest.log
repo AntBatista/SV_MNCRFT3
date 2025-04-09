@@ -1,15 +1,15 @@
-[09Apr2025 01:27:44.601] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Apr2025 01:27:44.611] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[09Apr2025 01:27:46.883] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Apr2025 01:27:46.962] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[09Apr2025 01:27:47.218] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[09Apr2025 01:27:47.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Apr2025 01:27:47.222] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Apr2025 01:27:47.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Apr2025 01:27:47.386] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[09Apr2025 01:27:49.547] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Apr2025 01:27:49.609] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Apr2025 01:27:49.861] [main/INFO] [Puzzles Lib/]: Loading 23 mods:
+[09Apr2025 02:11:42.849] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[09Apr2025 02:11:42.853] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[09Apr2025 02:11:43.102] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Apr2025 02:11:43.150] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[09Apr2025 02:11:43.436] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[09Apr2025 02:11:43.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Apr2025 02:11:43.439] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Apr2025 02:11:43.441] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Apr2025 02:11:43.567] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[09Apr2025 02:11:45.600] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Apr2025 02:11:45.661] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Apr2025 02:11:45.839] [main/INFO] [Puzzles Lib/]: Loading 23 mods:
 	- badpackets 0.4.3
 	- creativecore 2.12.31
 	- cristellib 1.1.6
@@ -34,10 +34,10 @@
 	- voicechat 1.20.1-2.5.26
 	- wthit 8.16.1
 		\-- waila 8.16.1
-[09Apr2025 01:27:49.868] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Apr2025 01:27:49.886] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Apr2025 01:27:50.999] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09Apr2025 01:27:51.376] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[09Apr2025 02:11:45.844] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Apr2025 02:11:45.858] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Apr2025 02:11:46.905] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09Apr2025 02:11:47.240] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
@@ -67,139 +67,137 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[09Apr2025 01:27:58.651] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[09Apr2025 01:27:58.807] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[09Apr2025 01:27:58.820] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[09Apr2025 01:27:58.821] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[09Apr2025 01:28:01.647] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[09Apr2025 01:28:01.665] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[09Apr2025 01:28:01.672] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[09Apr2025 01:28:01.677] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[09Apr2025 01:28:01.803] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[09Apr2025 01:28:01.828] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[09Apr2025 01:28:01.952] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[09Apr2025 01:28:01.970] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[09Apr2025 01:28:01.974] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[09Apr2025 01:28:01.974] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[09Apr2025 01:28:02.052] [main/INFO] [journeymap/]: Initializing Packet Registries
-[09Apr2025 01:28:02.168] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[09Apr2025 01:28:02.189] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[09Apr2025 01:28:02.237] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[09Apr2025 01:28:02.251] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[09Apr2025 01:28:02.266] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[09Apr2025 01:28:02.338] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[09Apr2025 01:28:02.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[09Apr2025 01:28:03.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
-[09Apr2025 01:28:03.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[09Apr2025 01:28:03.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[09Apr2025 01:28:03.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[09Apr2025 01:28:03.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[09Apr2025 01:28:03.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[09Apr2025 01:28:03.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
-[09Apr2025 01:28:03.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[09Apr2025 01:28:03.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[09Apr2025 01:28:03.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[09Apr2025 01:28:04.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[09Apr2025 01:28:04.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[09Apr2025 01:28:04.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
-[09Apr2025 01:28:04.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[09Apr2025 01:28:04.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[09Apr2025 01:28:04.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Apr2025 01:28:04.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[09Apr2025 01:28:04.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[09Apr2025 01:28:04.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[09Apr2025 01:28:04.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[09Apr2025 01:28:04.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[09Apr2025 01:28:06.222] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Apr2025 01:28:08.936] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[09Apr2025 01:28:08.936] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[09Apr2025 01:28:11.687] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[09Apr2025 01:28:11.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[09Apr2025 01:28:11.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[09Apr2025 01:28:11.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[09Apr2025 01:28:11.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[09Apr2025 01:28:11.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[09Apr2025 01:28:11.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[09Apr2025 01:28:11.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[09Apr2025 01:28:11.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[09Apr2025 01:28:11.919] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1773 advancements
-[09Apr2025 01:28:11.925] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[09Apr2025 01:28:14.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Apr2025 01:28:14.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Apr2025 01:28:14.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Apr2025 01:28:14.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Apr2025 01:28:14.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Apr2025 01:28:14.961] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Apr2025 01:28:15.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Apr2025 01:28:15.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Apr2025 01:28:15.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Apr2025 01:28:15.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Apr2025 01:28:15.101] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[09Apr2025 01:28:15.105] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[09Apr2025 01:28:15.108] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[09Apr2025 01:28:15.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Apr2025 01:28:19.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Apr2025 01:28:24.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.632] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.654] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.728] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.745] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.783] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.784] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:24.784] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:25.055] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Apr2025 01:28:25.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[09Apr2025 01:28:26.055] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[09Apr2025 01:28:26.189] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7134 ms
-[09Apr2025 01:28:26.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.100s)! For help, type "help"
-[09Apr2025 01:28:26.219] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Apr2025 01:28:26.224] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[09Apr2025 01:28:26.283] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[09Apr2025 01:28:26.283] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[09Apr2025 01:28:26.284] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[09Apr2025 01:28:26.284] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[09Apr2025 01:28:26.285] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV_MNCRFT3/servidor_minecraft/./config/infernalmobs.cfg
-[09Apr2025 01:28:26.285] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[09Apr2025 01:28:26.297] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
-[09Apr2025 01:28:26.298] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[09Apr2025 01:31:12.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:50887] logged in with entity id 387 at (-1891.3809523960604, 70.0, 2540.4073421791777)
-[09Apr2025 01:31:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
-[09Apr2025 01:31:14.573] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
-[09Apr2025 01:31:14.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
-[09Apr2025 01:31:21.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[09Apr2025 01:31:23.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
-[09Apr2025 01:31:23.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
-[09Apr2025 02:03:26.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:36977] logged in with entity id 5980 at (-1890.492583574293, 65.9375, 2528.204223437051)
-[09Apr2025 02:03:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
-[09Apr2025 02:03:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
-[09Apr2025 02:03:27.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
-[09Apr2025 02:03:32.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
-[09Apr2025 02:03:33.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
-[09Apr2025 02:03:33.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
-[09Apr2025 02:07:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: The difficulty has been set to Hard]
-[09Apr2025 02:10:16.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> voy a reinicial de un pronto
-[09Apr2025 02:10:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> OK
-[09Apr2025 02:10:25.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
-[09Apr2025 02:10:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
-[09Apr2025 02:10:25.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
-[09Apr2025 02:10:27.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
-[09Apr2025 02:10:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
-[09Apr2025 02:10:27.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
-[09Apr2025 02:10:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[09Apr2025 02:10:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09Apr2025 02:10:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09Apr2025 02:10:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09Apr2025 02:10:34.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09Apr2025 02:10:35.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09Apr2025 02:10:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[09Apr2025 02:10:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09Apr2025 02:10:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Apr2025 02:10:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09Apr2025 02:10:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[09Apr2025 02:10:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Apr2025 02:10:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09Apr2025 02:10:35.681] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Apr2025 02:11:52.230] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[09Apr2025 02:11:52.386] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[09Apr2025 02:11:52.395] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[09Apr2025 02:11:52.389] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[09Apr2025 02:11:54.480] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[09Apr2025 02:11:54.489] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[09Apr2025 02:11:54.491] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[09Apr2025 02:11:54.493] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[09Apr2025 02:11:54.588] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[09Apr2025 02:11:54.590] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[09Apr2025 02:11:54.612] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[09Apr2025 02:11:54.746] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[09Apr2025 02:11:54.758] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[09Apr2025 02:11:54.759] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[09Apr2025 02:11:54.759] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[09Apr2025 02:11:54.845] [main/INFO] [journeymap/]: Initializing Packet Registries
+[09Apr2025 02:11:54.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[09Apr2025 02:11:54.942] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[09Apr2025 02:11:54.967] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[09Apr2025 02:11:54.984] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[09Apr2025 02:11:54.985] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[09Apr2025 02:11:54.986] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[09Apr2025 02:11:55.023] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[09Apr2025 02:11:55.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
+[09Apr2025 02:11:55.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[09Apr2025 02:11:55.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[09Apr2025 02:11:55.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[09Apr2025 02:11:55.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[09Apr2025 02:11:55.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[09Apr2025 02:11:56.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
+[09Apr2025 02:11:56.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[09Apr2025 02:11:56.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[09Apr2025 02:11:56.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[09Apr2025 02:11:56.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[09Apr2025 02:11:56.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[09Apr2025 02:11:56.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
+[09Apr2025 02:11:56.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[09Apr2025 02:11:56.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[09Apr2025 02:11:56.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Apr2025 02:11:56.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[09Apr2025 02:11:56.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[09Apr2025 02:11:56.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[09Apr2025 02:11:56.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[09Apr2025 02:11:57.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[09Apr2025 02:11:58.256] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Apr2025 02:12:00.470] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[09Apr2025 02:12:00.470] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV_MNCRFT3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[09Apr2025 02:12:02.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[09Apr2025 02:12:02.545] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[09Apr2025 02:12:02.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[09Apr2025 02:12:02.551] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[09Apr2025 02:12:02.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[09Apr2025 02:12:02.553] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[09Apr2025 02:12:02.559] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[09Apr2025 02:12:02.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[09Apr2025 02:12:02.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[09Apr2025 02:12:02.707] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1773 advancements
+[09Apr2025 02:12:02.714] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[09Apr2025 02:12:04.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Apr2025 02:12:04.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Apr2025 02:12:04.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Apr2025 02:12:04.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Apr2025 02:12:04.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Apr2025 02:12:04.707] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Apr2025 02:12:04.804] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Apr2025 02:12:04.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Apr2025 02:12:04.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Apr2025 02:12:04.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Apr2025 02:12:04.828] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[09Apr2025 02:12:04.832] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Apr2025 02:12:04.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Apr2025 02:12:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Apr2025 02:12:11.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.614] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.616] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.617] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.618] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:11.738] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Apr2025 02:12:12.238] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[09Apr2025 02:12:12.741] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5003 ms
+[09Apr2025 02:12:12.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.924s)! For help, type "help"
+[09Apr2025 02:12:12.773] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Apr2025 02:12:12.778] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[09Apr2025 02:12:12.821] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[09Apr2025 02:12:12.822] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[09Apr2025 02:12:12.822] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[09Apr2025 02:12:12.823] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[09Apr2025 02:12:12.823] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV_MNCRFT3/servidor_minecraft/./config/infernalmobs.cfg
+[09Apr2025 02:12:12.824] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[09Apr2025 02:12:12.838] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'homepage-objective.gl.at.ply.gg:3733'
+[09Apr2025 02:12:12.839] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[09Apr2025 02:12:45.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:32995] logged in with entity id 388 at (-2120.9005261004427, 127.0, 2414.5407844964398)
+[09Apr2025 02:12:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[09Apr2025 02:12:48.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[09Apr2025 02:12:48.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[09Apr2025 02:12:48.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[09Apr2025 02:12:51.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[09Apr2025 02:12:52.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[09Apr2025 02:12:52.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[09Apr2025 02:13:14.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MATTBXB[/127.144.174.94:52675] logged in with entity id 872 at (-1846.9346339861243, 72.0, 2430.0402857967774)
+[09Apr2025 02:13:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB joined the game
+[09Apr2025 02:13:15.641] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MATTBXB (18)
+[09Apr2025 02:13:15.642] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MATTBXB
+[09Apr2025 02:13:17.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fc9345e-566f-3592-990b-a15ffd298d70
+[09Apr2025 02:13:18.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fc9345e-566f-3592-990b-a15ffd298d70
+[09Apr2025 02:13:18.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MATTBXB (1fc9345e-566f-3592-990b-a15ffd298d70) successfully connected to voice chat
+[09Apr2025 02:15:57.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:40617] logged in with entity id 2276 at (-15861.127134411394, 5.0, 20264.887570906725)
+[09Apr2025 02:15:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[09Apr2025 02:15:59.033] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[09Apr2025 02:15:59.033] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[09Apr2025 02:16:05.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[09Apr2025 02:16:06.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[09Apr2025 02:16:06.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[09Apr2025 02:16:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Antonio hasme tp
+[09Apr2025 02:16:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> donde estas
+[09Apr2025 02:16:47.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> En el otro punto
+[09Apr2025 02:16:47.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:46379] logged in with entity id 2851 at (-1912.4912253302277, 71.0, 2530.5355279843743)
+[09Apr2025 02:16:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[09Apr2025 02:16:50.164] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[09Apr2025 02:16:50.164] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[09Apr2025 02:17:00.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[09Apr2025 02:17:01.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[09Apr2025 02:17:01.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[09Apr2025 02:17:25.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> GO QUE ESTAMOS TODOS
+[09Apr2025 02:17:37.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> POR LOS BOSS
+[09Apr2025 02:17:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Go de que
+[09Apr2025 02:17:47.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
+[09Apr2025 02:17:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> CUANDO TERMINE MI TREN
+[09Apr2025 02:18:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Cover Me with Diamonds]
+[09Apr2025 02:19:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> DUERMAN
+[09Apr2025 02:21:33.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> COMPRO PIEDRA CADA 64 SON 5 DIAMANTES
