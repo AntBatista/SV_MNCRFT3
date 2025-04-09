@@ -5048,6 +5048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_fence": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
@@ -5111,6 +5117,12 @@
   "twilightforest:recipes/building_blocks/wood/dark_planks": {
     "criteria": {
       "has_item": "2025-04-09 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
     },
     "done": true
   },
