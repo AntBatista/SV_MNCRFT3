@@ -208,3 +208,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [09Apr2025 02:45:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> quien viene al otro mundo?
 [09Apr2025 02:46:11.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Manuel un mega creeper casi acaba con tu contruccion
 [09Apr2025 02:49:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Alguien que traiga un yunque a la zona de farmeo
+[09Apr2025 02:54:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> NOS VAMOS
+[09Apr2025 02:56:46.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB moved too quickly! -10.041723142998308,0.0,1.838138598981459
+[09Apr2025 02:58:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> antonio da tp cuando llegues
+[09Apr2025 02:59:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
+[09Apr2025 03:01:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Dame tp antonio
+[09Apr2025 03:01:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
