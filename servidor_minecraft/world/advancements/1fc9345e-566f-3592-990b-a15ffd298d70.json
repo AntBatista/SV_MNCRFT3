@@ -4148,9 +4148,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-28 04:07:30 +0000"
+      "kill_lich": "2025-03-28 04:07:30 +0000",
+      "trophy_pedestal": "2025-04-09 03:42:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -5066,6 +5067,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-04-09 03:42:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_plate": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
@@ -5096,6 +5103,18 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-04-09 03:44:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_button": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
@@ -5120,6 +5139,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-04-09 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-04-09 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-04-09 03:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
@@ -5129,6 +5166,12 @@
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-04-09 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-04-09 03:44:22 +0000"
     },
     "done": true
   },

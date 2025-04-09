@@ -1823,9 +1823,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-04-08 03:32:04 +0000"
+      "kill_lich": "2025-04-08 03:32:04 +0000",
+      "trophy_pedestal": "2025-04-09 03:42:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -1941,6 +1942,12 @@
       "has_diamond": "2025-04-09 02:37:59 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {

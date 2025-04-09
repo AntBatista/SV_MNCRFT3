@@ -3088,9 +3088,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-30 23:36:07 +0000"
+      "kill_lich": "2025-03-30 23:36:07 +0000",
+      "trophy_pedestal": "2025-04-09 03:42:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -3824,6 +3825,18 @@
   "tombstone:adventure/knowledge_wasted": {
     "criteria": {
       "coded_trigger": "2025-04-09 02:28:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-04-09 03:43:47 +0000"
     },
     "done": true
   },

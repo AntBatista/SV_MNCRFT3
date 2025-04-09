@@ -3469,9 +3469,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-28 04:07:30 +0000"
+      "kill_lich": "2025-03-28 04:07:30 +0000",
+      "trophy_pedestal": "2025-04-09 03:42:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -4405,6 +4406,12 @@
       "has_trophy": "2025-04-08 03:08:15 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
