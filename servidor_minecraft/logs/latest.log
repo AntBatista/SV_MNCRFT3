@@ -202,3 +202,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [09Apr2025 02:19:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> DUERMAN
 [09Apr2025 02:21:33.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> COMPRO PIEDRA CADA 64 SON 5 DIAMANTES
 [09Apr2025 02:28:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Knowledge Wasted]
+[09Apr2025 02:37:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff has made the advancement [Diamonds!]
+[09Apr2025 02:38:57.269] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[09Apr2025 02:38:57.269] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
