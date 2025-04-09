@@ -214,3 +214,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [09Apr2025 02:59:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported mastercheeffff to Antonio]
 [09Apr2025 03:01:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Dame tp antonio
 [09Apr2025 03:01:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported DavidMaster to mastercheeffff]
+[09Apr2025 03:05:13.250] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
+[09Apr2025 03:05:47.851] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[09Apr2025 03:05:47.853] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[09Apr2025 03:05:54.597] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[09Apr2025 03:05:54.599] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[09Apr2025 03:06:07.250] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[09Apr2025 03:06:07.252] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[09Apr2025 03:06:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[09Apr2025 03:06:14.262] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[09Apr2025 03:06:32.349] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[09Apr2025 03:06:32.351] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[09Apr2025 03:06:36.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Timed out
+[09Apr2025 03:06:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[09Apr2025 03:06:36.053] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[09Apr2025 03:07:41.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio[/127.144.174.94:50397] logged in with entity id 24227 at (-16122.5, 65.1, 19989.5)
+[09Apr2025 03:07:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio joined the game
+[09Apr2025 03:07:41.552] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Antonio (18)
+[09Apr2025 03:07:41.553] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Antonio
+[09Apr2025 03:07:46.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[09Apr2025 03:07:47.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
+[09Apr2025 03:07:47.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[09Apr2025 03:08:41.849] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[09Apr2025 03:08:41.850] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[09Apr2025 03:09:23.999] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[09Apr2025 03:09:24.000] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[09Apr2025 03:11:38.249] [Server thread/INFO] [tombstone/]: The player MATTBXB has successfully been saved
