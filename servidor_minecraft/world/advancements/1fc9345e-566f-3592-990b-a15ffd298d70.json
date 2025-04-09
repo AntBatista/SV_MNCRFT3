@@ -3160,9 +3160,11 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-03-24 02:40:41 +0000",
+      "dark_planks": "2025-04-09 03:29:57 +0000",
       "twilight_oak_trapdoor": "2025-03-25 03:17:45 +0000",
       "twilight_oak_log": "2025-03-23 22:37:12 +0000",
       "twilight_oak_wood": "2025-03-23 22:38:12 +0000",
+      "dark_log": "2025-04-09 03:29:53 +0000",
       "liveroot": "2025-03-28 01:57:26 +0000",
       "twilight_oak_sapling": "2025-04-05 03:58:01 +0000",
       "twilight_oak_boat": "2025-03-25 03:14:22 +0000"
@@ -5028,9 +5030,93 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/zombie_scepter": {
     "criteria": {
       "has_item": "2025-04-09 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:32:05 +0000"
     },
     "done": true
   },
