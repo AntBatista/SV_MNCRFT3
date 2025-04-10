@@ -174,3 +174,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 01:43:37.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [10Apr2025 01:43:38.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7062b118-93e5-3672-b405-bcce8e6a44cd
 [10Apr2025 01:43:38.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Antonio (7062b118-93e5-3672-b405-bcce8e6a44cd) successfully connected to voice chat
+[10Apr2025 02:00:07.499] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[10Apr2025 02:00:07.513] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[10Apr2025 02:00:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[10Apr2025 02:00:13.003] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
