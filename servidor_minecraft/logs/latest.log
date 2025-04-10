@@ -244,3 +244,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 02:46:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> HAYYY
 [10Apr2025 02:48:02.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> para donde van
 [10Apr2025 02:48:45.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> manten ese, nosotro nos encargamos de este
+[10Apr2025 02:52:06.985] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[10Apr2025 02:52:06.989] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[10Apr2025 02:57:32.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[10Apr2025 02:57:32.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[10Apr2025 02:57:32.588] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[10Apr2025 02:57:32.637] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Apr2025 02:59:02.935] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ed56634[id=<null>,name=DavidMaster,properties={},legacy=false] (/127.65.88.103:49025) lost connection: Disconnected
+[10Apr2025 02:59:31.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:46181] logged in with entity id 28991 at (-15905.403041043792, -5.0, 19974.154047686647)
+[10Apr2025 02:59:31.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[10Apr2025 02:59:32.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[10Apr2025 02:59:32.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[10Apr2025 02:59:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> ustedes tienen lag?
+[10Apr2025 02:59:35.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[10Apr2025 02:59:36.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[10Apr2025 02:59:36.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[10Apr2025 02:59:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> si

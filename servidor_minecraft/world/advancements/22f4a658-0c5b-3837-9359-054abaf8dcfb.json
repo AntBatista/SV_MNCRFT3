@@ -3840,6 +3840,30 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 02:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-10 02:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-10 02:07:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/impregnator": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 02:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 02:49:43 +0000"
@@ -3852,21 +3876,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/impregnator": {
-    "criteria": {
-      "coded_trigger": "2025-04-10 02:14:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 02:49:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-04-10 02:04:31 +0000"
     },
     "done": true
   },
@@ -3960,12 +3972,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-04-10 02:07:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 02:49:43 +0000"
@@ -3984,9 +3990,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
-      "has_iron_block": "2025-04-10 02:07:19 +0000"
+      "has_item": "2025-04-10 02:53:51 +0000"
     },
     "done": true
   },
