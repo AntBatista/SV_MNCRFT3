@@ -178,3 +178,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 02:00:07.513] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [10Apr2025 02:00:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
 [10Apr2025 02:00:13.003] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[10Apr2025 02:00:30.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mastercheeffff[/127.187.213.183:33033] logged in with entity id 5047 at (-1913.8314629640095, 71.0, 2530.147939994141)
+[10Apr2025 02:00:30.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff joined the game
+[10Apr2025 02:00:31.858] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mastercheeffff (18)
+[10Apr2025 02:00:31.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mastercheeffff
+[10Apr2025 02:00:37.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[10Apr2025 02:00:38.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8db8331f-ec31-36ad-9334-d2a1fe3e8de1
+[10Apr2025 02:00:38.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mastercheeffff (8db8331f-ec31-36ad-9334-d2a1fe3e8de1) successfully connected to voice chat
+[10Apr2025 02:02:27.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidMaster[/127.65.88.103:42581] logged in with entity id 5506 at (-1893.6644288765472, 69.0, 2540.2897368885438)
+[10Apr2025 02:02:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster joined the game
+[10Apr2025 02:02:28.352] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidMaster (18)
+[10Apr2025 02:02:28.352] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidMaster
+[10Apr2025 02:02:32.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[10Apr2025 02:02:33.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22f4a658-0c5b-3837-9359-054abaf8dcfb
+[10Apr2025 02:02:33.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
+[10Apr2025 02:04:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Mastery 1]
+[10Apr2025 02:09:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> duerman

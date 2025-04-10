@@ -1883,6 +1883,12 @@
     },
     "done": false
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-09 02:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-09 02:37:59 +0000"
@@ -1904,18 +1910,6 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-09 02:37:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-09 02:18:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-04-09 03:24:45 +0000"
     },
     "done": true
   },
@@ -1943,12 +1937,6 @@
     },
     "done": true
   },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2025-04-09 03:42:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-09 02:37:59 +0000"
@@ -1972,6 +1960,18 @@
       "has_diamond": "2025-04-09 02:37:59 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-04-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
