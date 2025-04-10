@@ -223,3 +223,18 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 02:28:14.290] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
 [10Apr2025 02:28:14.295] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
 [10Apr2025 02:30:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> se quedaron
+[10Apr2025 02:30:56.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> voy
+[10Apr2025 02:31:10.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> dame tp
+[10Apr2025 02:31:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> camine
+[10Apr2025 02:33:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> VOY
+[10Apr2025 02:34:09.488] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[10Apr2025 02:34:09.491] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[10Apr2025 02:34:36.488] [Server thread/WARN] [tombstone/]: The death event of the player DavidMaster was canceled by another mod
+[10Apr2025 02:34:36.489] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[10Apr2025 02:34:38.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster froze to death
+[10Apr2025 02:34:38.490] [Server thread/INFO] [tombstone/]: The player DavidMaster has successfully been saved
+[10Apr2025 02:37:56.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> GO GO GO
+[10Apr2025 02:39:53.140] [Server thread/WARN] [tombstone/]: The death event of the player Antonio was canceled by another mod
+[10Apr2025 02:39:53.142] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[10Apr2025 02:39:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
+[10Apr2025 02:39:55.491] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
