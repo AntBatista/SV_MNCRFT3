@@ -194,3 +194,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 02:02:33.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DavidMaster (22f4a658-0c5b-3837-9359-054abaf8dcfb) successfully connected to voice chat
 [10Apr2025 02:04:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Mastery 1]
 [10Apr2025 02:09:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> duerman
+[10Apr2025 02:10:41.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> duerma alguien
+[10Apr2025 02:11:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> ya
+[10Apr2025 02:14:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Impregnator]
