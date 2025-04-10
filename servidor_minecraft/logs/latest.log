@@ -238,3 +238,9 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 02:39:53.142] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
 [10Apr2025 02:39:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio froze to death
 [10Apr2025 02:39:55.491] [Server thread/INFO] [tombstone/]: The player Antonio has successfully been saved
+[10Apr2025 02:40:58.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> [name:"AQUI", x:-16075, y:29, z:19712, dim:twilightforest:twilight_forest]
+[10Apr2025 02:45:32.130] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[10Apr2025 02:45:32.135] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[10Apr2025 02:46:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> HAYYY
+[10Apr2025 02:48:02.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> para donde van
+[10Apr2025 02:48:45.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> manten ese, nosotro nos encargamos de este
