@@ -5025,9 +5025,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2025-04-09 03:09:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ally_enhancer": {
     "criteria": {
       "coded_trigger": "2025-04-09 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-04-09 03:29:53 +0000"
     },
     "done": true
   },
@@ -5037,21 +5055,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
-    "criteria": {
-      "has_item": "2025-04-09 03:32:05 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/wood/dark_stairs": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
     },
     "done": true
   },
@@ -5067,21 +5073,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-04-09 03:42:55 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_plate": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/zombie_scepter": {
-    "criteria": {
-      "has_item": "2025-04-09 03:09:13 +0000"
     },
     "done": true
   },
@@ -5103,27 +5097,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2025-04-09 03:42:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-04-09 03:44:21 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/dark_button": {
     "criteria": {
       "has_item": "2025-04-09 03:29:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/dark_wood": {
-    "criteria": {
-      "has_item": "2025-04-09 03:29:53 +0000"
     },
     "done": true
   },
@@ -5133,9 +5109,45 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
-      "has_item": "2025-04-09 03:29:53 +0000"
+      "has_item": "2025-04-09 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-09 03:42:17 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-04-09 03:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-04-09 03:44:21 +0000"
     },
     "done": true
   },
@@ -5154,18 +5166,6 @@
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2025-04-09 03:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-09 03:41:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/mossy_underbrick": {
-    "criteria": {
-      "has_item": "2025-04-09 03:32:05 +0000"
     },
     "done": true
   },
