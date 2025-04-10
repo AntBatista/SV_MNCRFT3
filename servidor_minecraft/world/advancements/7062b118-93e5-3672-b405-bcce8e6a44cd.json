@@ -4409,9 +4409,16 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2025-04-09 03:42:17 +0000"
+      "previous_progression": "2025-04-09 03:42:17 +0000",
+      "was_in_fight": "2025-04-10 03:11:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-04-10 03:14:24 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
@@ -4419,9 +4426,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-04-10 03:11:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-04-10 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-10 03:11:11 +0000"
     },
     "done": true
   },
@@ -4434,6 +4453,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-04-10 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-04-10 03:14:24 +0000"
     },
     "done": true
   },

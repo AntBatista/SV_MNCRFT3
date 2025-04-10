@@ -3831,9 +3831,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2025-04-09 03:42:17 +0000"
+      "previous_progression": "2025-04-09 03:42:17 +0000",
+      "was_in_fight": "2025-04-10 03:11:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
     "criteria": {
@@ -3996,6 +3997,12 @@
       "has_item": "2025-04-10 02:53:51 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-04-10 03:11:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

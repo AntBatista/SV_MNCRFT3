@@ -268,3 +268,32 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [10Apr2025 03:10:50.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [Carminite Acclimation]
 [10Apr2025 03:11:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio has reached the goal [Carminite Acclimation]
 [10Apr2025 03:11:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster has reached the goal [Carminite Acclimation]
+[10Apr2025 03:12:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> YA LO MATAMOS
+[10Apr2025 03:12:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> EZ
+[10Apr2025 03:12:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> Nosotros tambien
+[10Apr2025 03:13:14.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> ya lo encotraron
+[10Apr2025 03:13:20.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidMaster> SI
+[10Apr2025 03:13:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> si y lo matamos
+[10Apr2025 03:13:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mastercheeffff> tp para quitar el lag
+[10Apr2025 03:14:28.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidMaster lost connection: Disconnected
+[10Apr2025 03:14:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidMaster left the game
+[10Apr2025 03:14:28.134] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidMaster
+[10Apr2025 03:15:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> yelfri se fue
+[10Apr2025 03:15:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> a donde esta el otro?
+[10Apr2025 03:15:47.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MATTBXB> VEN CON TP
+[10Apr2025 03:16:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio> estaria faltando a mi regla de no TP
+[10Apr2025 03:18:27.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Antonio: Teleported Antonio to mastercheeffff]
+[10Apr2025 03:19:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB has reached the goal [I see clearly now]
+[10Apr2025 03:20:08.978] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[10Apr2025 03:20:08.982] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[10Apr2025 03:20:35.429] [Server thread/WARN] [tombstone/]: The death event of the player mastercheeffff was canceled by another mod
+[10Apr2025 03:20:35.430] [Server thread/INFO] [tombstone/]: The player mastercheeffff has successfully been saved
+[10Apr2025 03:21:26.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio lost connection: Disconnected
+[10Apr2025 03:21:26.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio left the game
+[10Apr2025 03:21:26.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Antonio
+[10Apr2025 03:21:28.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MATTBXB lost connection: Disconnected
+[10Apr2025 03:21:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MATTBXB left the game
+[10Apr2025 03:21:28.529] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MATTBXB
+[10Apr2025 03:21:28.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mastercheeffff lost connection: Disconnected
+[10Apr2025 03:21:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mastercheeffff left the game
+[10Apr2025 03:21:28.629] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mastercheeffff

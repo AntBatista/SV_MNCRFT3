@@ -5188,6 +5188,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-10 03:19:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/knightmetal_sword": {
     "criteria": {
       "has_item": "2025-04-10 02:55:08 +0000"
